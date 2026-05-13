@@ -876,7 +876,12 @@
           <input type="email" id="email" name="email" placeholder="O seu e-mail" autocomplete="email">
           <span class="field-error" id="email-error"></span>
         </div>
-        <button type="submit" class="modal-submit" id="form-submit">Subscrever</button>
+        <div class="form-field form-field-check">
+          <input type="checkbox" id="consent" name="consentimento" value="sim">
+          <label for="consent" class="check-label">Aceito receber comunicações da Delfos sobre novidades e cursos.</label>
+          <span class="field-error" id="consent-error"></span>
+        </div>
+                <button type="submit" class="modal-submit" id="form-submit">Subscrever</button>
       </form>
     </div>
 
@@ -949,7 +954,7 @@
   }
 
   function clearErrors() {
-    ['name','email'].forEach(id => setFieldError(id, ''));
+    ['name','email','consent'].forEach(id => setFieldError(id, ''));
     formError.style.display = 'none';
     formError.textContent = '';
   }
@@ -966,6 +971,8 @@
     if (!name) { setFieldError('name', 'Por favor introduza o seu nome.'); valid = false; }
     if (!email) { setFieldError('email', 'Por favor introduza o seu e-mail.'); valid = false; }
     else if (!emailRe.test(email)) { setFieldError('email', 'Endereço de e-mail inválido.'); valid = false; }
+    const consent = document.getElementById('consent');
+    if (!consent.checked) { setFieldError('consent', 'Por favor aceite para continuar.'); valid = false; }
     if (!valid) return;
 
     submitBtn.disabled = true;
