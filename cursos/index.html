@@ -834,10 +834,9 @@
     .form-field input:focus { border-color: var(--gold-50); }
     .form-field-check {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       gap: 0.75rem;
       margin-bottom: 1.25rem;
-      padding-right: 1.5rem;
     }
 
     .form-field-check input[type="checkbox"] {
@@ -850,6 +849,7 @@
       background: oklch(0.88 0.005 90 / 0.18);
       cursor: pointer;
       position: relative;
+      margin-top: 0.1rem;
     }
 
     .form-field-check input[type="checkbox"]:checked {
@@ -1357,7 +1357,6 @@
     <button class="modal-close" id="modal-close" aria-label="Fechar">&times;</button>
 
     <div id="modal-form-wrap">
-      <p class="modal-label">Registo</p>
       <h2 id="modal-title">Subscreva às novidades</h2>
       <p class="modal-sub">Seja a primeira pessoa a saber de descontos, novidades, ou novos cursos.</p>
 
