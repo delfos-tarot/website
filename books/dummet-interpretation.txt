@@ -1,0 +1,314 @@
+Dummett's Game of Tarot
+
+This post is a small tribute to Michael Dummett’s 1980 The Game of Tarot. His first Tarot book contains 600 densely informative pages, and attempting to describe it can exhaust one’s supply of superlatives. At the time it was published, much of the information was not merely new but revelatory. Over three decades old, it remains the most comprehensive and generally reliable work on the subject of Tarot history(1). Dummett’s findings, analyses, and conclusions constitute prerequisite material even for iconographic studies of early Tarot, and his fundamental contributions in that area were the subject of my previous overlong post.
+
+The facts that were first presented in Dummett’s book have shaped much of my online discretionary time for the last thirteen years, directly or indirectly. That was true even before I had seen a copy. Most people interested in Tarot are attracted to the New Age aura, superstitious practices, and pseudo-historical bullshit that surround it. In my case it was the opposite: the fact-based history of Tarot which The Game of Tarot established is the primary reason for the existence of this blog. With the author’s passing it seems appropriate to express appreciation for his contribution to a field of study that, in its pop-culture expression, almost uniformly ignores, rejects, marginalizes, distorts, and denigrates his contributions, those damned facts.
+
+The intended audience for this post is someone who has heard of the book, (probably from a Tarot enthusiast warning them how limited and misleading Dummett’s studies were, or how Dummett has been superseded by online Tarot “historians”), and who searches the Web to learn a bit more about it. Dummett’s outline of “principle topics” for the book will be reproduced, along with the table of contents for the companion volume, Twelve Tarot Games. There will be quotes and comments about a few subjects Dummett addressed in his Preface which seem revealing of his purpose and methods. Finally, a bibliography will list those later Tarot books which include him as author or co-author. This is not any sort of book review, but each section should provide a bit of context for better understanding The Game of Tarot.
+
+
+
+Facts About Tarot
+
+What’s the big deal? Mainly, it's about the facts. More than anything else, the publication of The Game of Tarot was the birth of a fact-based Tarot history. He was not content to assemble a few facts, review conventional wisdom, and write up a seemingly plausible story. He believed that every supposed fact cited by previous authors should be tracked down and verified, and as much additional information as could be discovered should be added. Folklore carried no weight, regardless how many people might have credulously accepted it. Crucially, he embraced and developed the taxonomic study of playing cards, methods pioneered by Detlef Hoffmann and Sylvia Mann, to structure the previously inchoate factoids into a coherent history. In this rigorous manner, most of what is known about Tarot history was discovered, collected, collated, analyzed, and explained by Michael Dummett, and the majority of it was laid out in 1980. In the world of Tarot, Dummett remains the King of Facts. (In the same sense, “Etteilla”, Antoine Court “de Gébelin” and “Eliphas Lévi” are Barons of Bullshit, poseurs who wouldn’t even give you a straight answer about their own names.) In honor of the treasure chest of historical evidence marshaled in The Game of Tarot, a short list of quotes from the world of fact fanciers.
+
+
+
+Data! Data! Data! I cannot make bricks without clay.
+Sherlock Holmes
+It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.
+Sherlock Holmes
+Everyone is entitled to his own opinion, but not his own facts.
+Daniel Patrick Moynihan
+Where facts are few, experts are many.
+Donald R. Gannon
+Facts are facts and will not disappear on account of your likes.
+Jawaharlal Nehru
+Facts do not cease to exist because they are ignored.
+Aldous Huxley
+Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.
+John Adams
+We can have facts without thinking but we cannot have thinking without facts.
+John Dewey
+I am turned into a sort of machine for observing facts and grinding out conclusions.
+Charles Darwin
+There are in fact two things, science and opinion; the former begets knowledge, the later ignorance
+Hippocrates quotes
+It's not what a man don't know that makes him a fool; it's what he do know that ain't so.
+Josh Billings
+Facts have a cruel way of substituting themselves for fancies. There is nothing more remorseless, just as there is nothing more helpful, than truth.
+William C. Red Field
+A fact never went into partnership with a miracle. Truth scorns the assistance of wonders. A fact will fit every other fact in the universe, and that is how you can tell whether it is or is not a fact. A lie will not fit anything except another lie.
+Robert Green Ingersoll
+Let us take things as we find them: let us not attempt to distort them into what they are not. We cannot make facts. All our wishing cannot change them. We must use them.
+Cardinal Newman
+
+
+It is easier to accept time-honored lore than newly revealed facts. People are more comfortable with an oft-repeated falsehood, especially one otherwise congenial to their values, attitudes, and predispositions, than they are with being disabused of their error. The greatest affront occurs when part of one’s psychological identity or emotional support is “debunked”. Tarot folklore today presupposes an entire world of long-standing falsehoods and newly fashioned pseudo-history, a universe of paranormal powers, ancient mysteries, and secret societies and traditions which people have made central to their world view. Facts, if accepted, automatically and inevitably debunk such cherished figments. That is why Dummett, with his damnable evidence and logic, is rejected, misrepresented, despised, and mainly ignored.
+
+
+
+Image based on John Constantine, by ©Javier Gonzalez Pacheco at DeviantART
+
+
+
+
+A Table of Principle Topics
+
+No one needs to guess what The Game of Tarot was about, or read every one of the 600 pages to discern the main themes. Dummett, ever the Oxford logician, was nothing if not analytically clear and explicit. Because of that, even dim-witted or deeply biased readers have little excuse for the assorted bizarre claims they make about his work.
+
+This book is concerned with three major subjects: the history of playing cards, the history of card games, and fortune-telling and the occult. It is implicit in the approach that a study of playing cards and that of card games cannot be separated from one another without detriment to both: each supplies vital clues to the other. But different readers will have particular interests in one or another of these topics: for so long a book, it may therefore be helpful to indicate, a little more precisely than is done by the chapter headings, which portions deal with each.
+Below is a graphical interpretation of Dummett’s table. Dummett naturally used page numbers, making it an indexed table of contents. While that is helpful for someone using the book, for the present summary purposes the display below, with dashes and x’s, seems more revealing.
+
+
+
+The Game of Tarot
+ 	History of
+Playing Cards	History of
+Games Played	Fortune-telling
+and the Occult
+Preface	—	— x —	— x —
+Annotated List of Illustrations	— x —	—	—
+Part 1: History and Mystery
+1. The Tarot Pack in Playing-Card History	— X —	— x —	—
+2. The Beginnings in Europe	— X —	— x —	—
+3. Europe and Asia	— X —	— x —	—
+4. When and Where the Tarot Pack was Invented	— X —	— x —	—
+5. Cartomancy	—	— x —	— X —
+6. The Occult	—	—	— X —
+7. The Game of Tarot	— x —	— X —	—
+Part II: Games with 78 Cards
+8. General Features of the Game	— x —	— X —	—
+9. The Early Stages of the Game in France	— X —	— X —	—
+10. Swiss Tarot, Tarock or Troccas	— X —	— X —	—
+11. Classic 18th-century Tarot Outside Italy	— x —	— X —	—
+12. Grosstarock	— x —	— X —	—
+13. Tarocco in Piedmont and Lombardy	— x —	— X —	—
+14. Tarock-l'Hombre	—	— X —	—
+15. Tarot in France in the 19th and 20th Centuries	— X —	— X —	—
+Part III: Italian Games and Italian Cards
+16. Tarocchino or Tarocchi Bolognesi	— X —	— X —	—
+17. Minchiate	— X —	— X —	—
+18. Trappola	— X —	— X —	—
+19. Sicilian Tarocchi	— X —	— X —	—
+20 The Order of the Tarot Trumps	— X —	—	—
+21. The Early Italian Game	—	— X —	—
+22. Tapp-Tarock	— x —	— X —	—
+23. The Variants of Tapp-Tarock	— x —	— X —	—
+24. Cego	—	— X —	—
+25. Konigsrufen	—	— X —	—
+26. XIXer-Rufen, XXer-Rufen and Czech Taroky	—	— X —	—
+27. Paskiewitsch and Hungarian Tarokk	— x —	— X —	—
+28. Bavarian Tarock and its Relatives	— x —	— X —	—
+(Based on the “Index of Principle Topics”, page 586.)
+
+
+Perhaps the most striking fact to leap out from the table is how little of the book is concerned with the preoccupations of most Tarot enthusiasts: fortune-telling and the occult are a minor part of the book. That reflects the fact that The Game of Tarot is a history book. Fortune-telling and the occult were not significantly associated with the deck until after about 340 years of Tarot being an enormously popular game. Even then, when a tiny handful of French Freemasons and fortune-tellers were creating occult Tarot, the game was enjoying its greatest popularity as an international phenomenon, due in part to the reinvention of the deck with more modern features. Even now, on any given day, there are probably more people playing cards with Tarot decks than reading their fortune.
+
+Despite that, the chapters on cartomancy and occult Tarot are long and thorough, and at the time the book was published they constituted by far the most detailed and documented history ever written about their respective subjects. They have since been superseded by two more books, both co-authored by Dummett. Clearly it was no part of Dummett’s project to ignore these aspects of Tarot or to argue that “throughout its history it was only a game.” This “just a game” accusation was leveled against Dummett by his first and most famous reviewer, Frances Yates in the New York Review of Books, and it is repeated without justification to this day.
+
+Dummett’s goal, clearly stated and impressively realized in The Game of Tarot, was to discover and present the facts about both aspects of Tarot history, what might be called Tarot’s double contribution to popular culture. One big revelation, where facts refuted folklore, was in the timing. The unanticipated but inescapable evidence told a very different story than had been accepted by cultists: the fact is that Tarot was invented as a card game around 1440, and was extremely popular for centuries, across much of Europe. It was not popularly adopted for fortune-telling until the late 18th century, and more esoteric views of the old game did not become popular until a century after that, about 150 years ago. Cultists who pretend to an interest in factual history work tirelessly to distort that chronology, but...
+
+
+
+
+
+
+A final point about the subjects covered concerns the companion book, Twelve Tarot Games. While Dummett was first researching Tarot he was also becoming an aficionado of the game. And when he published his encyclopedic history of Tarot, he simultaneously published a much smaller book on how to play the game. It is an essential element of the context of The Game of Tarot.
+
+This description is from Ross Caldwell(3):
+
+Although all the material is in The Game of Tarot, it is entirely rewritten with a view to precision, clarity, and playability, since GoT is hardly convenient to consult when playing or looking for tips on strategy. There is not a single footnote, nor an index. He says in the introduction that he would have included Minchiate, but that packs were no longer available (1980). This is no longer true, as reproductions of historical packs can be easily found.
+
+
+
+
+
+Twelve Tarot Games has a matching cover photo and reversed color scheme, from the same publisher in the same year as The Game of Tarot. It is, in effect, Part IV (in volume II) of the same book.
+
+Part IV: Twelve Tarot Games
+Introduction
+Scarto
+Mitigati
+French Tarot
+Grosstarock
+Ottocento
+Sicilian Tarocchi
+Tapp-Tarock
+Point-Tarock
+Königsrufen
+Cego
+Hungarian Tarokk
+Bavarian Tarock
+This quote is from the back cover:
+
+Michael Dummett, author of The Game of Tarot, a comprehensive history of games played with the Tarot pack and of the pack itself, here explains how to play twelve different Tarot games, all of them currently played in Italy, France, Germany, Denmark, Austria, or Hungary. This selection from the great variety of such games that are now played or have been played in the past will introduce card players to a whole range of new experience.
+Many of these games require just as much strategic skill as Bridge, but present quite new problems to the serious player, to which his experience at Bridge will give him very little guidance. Some of the games are for three players, some for four. In some of the three-handed games, each plays against each, in others one, according to the bidding, plays against the other two. In the Bolognese game of Ottocento, there are fixed partners, as in Bridge; but in most of the four-handed games, one player plays against the other three, or, in some cases, plays with a partner who is the player holding a card that he has called, whose identity is therefore not at first known except to himself. In none of the games does winning depend simply on making more tricks than the other side, but on the particular cards won in tricks, and in Ottocento on the particular combinations of such cards; but in most of the games there are bonuses for additional feats in the course of play, presenting the player with a choice of objectives lacking in most games.
+
+
+Dummett’s Hobby
+
+The majority of the Preface discusses the sources of information found and used, with many acknowledgements, and emphasizing “a great debt to Mr John McLeod”, who has since co-authored the expanded and revised 2004 work, A History of Games Played with the Tarot Pack. In addition there is an interesting discussion of how Dummett came to be absorbed in his “hobby” of Tarot and Tarot scholarship, in the 1960s.
+
+I first became interested in the game of Tarot in the summer of 1967. It had been a potential interest of mine since childhood when, looking at a compendium on the occult, I had read the chapter on fortune-telling with playing-cards. This, besides explaining how to tell fortunes with regular playing-cards, had also a section on the Tarot pack, from which I first learned of the existence of that pack, and which, in its introductory paragraphs, stated that Tarot cards were still used in central Europe for a complicated game of skill.... And then, in the summer of 1967, when I was on holiday with my family in Normandy, I came across a Tarot pack ‘avec règles du jeu’ in a shop in Honfleur, and eagerly bought it.
+That purchase proved something of a disappointment, being a modern style deck with rules that were not entirely clear, but Dummett and his son Andrew learned to play the game nonetheless. He began to discover that the game was played differently in different countries, and that players employed different decks as well. Encyclopedia entries and playing-card authorities were of little help in understanding this diversity. The most important exception was Sylvia Mann, whose “great knowledge, unrivaled in its breadth, of the history of playing cards”, made possible a collaboration eventually resulting in The Game of Tarot. Her assistance is credited on the title page, for reasons partly discussed below. A few pages later he arrives discusses another motivating factor.
+
+I do not think that I should ever have become so gripped by this investigation as I was had it not been for political events. When I first became interested in it, I was deeply involved in work to combat that racism which has, over the past fifteen years, disfigured our national life and dishonoured our country.
+As older readers may recall first-hand, the years 1967 and 1968 were notably disturbing and discouraging for those in the Civil Rights movement... and others.
+
+1968 was the most terrible year that I hope I ever have to live through. In the United States it was the year in which Richard Nixon was elected President for the first time: I spent three months there, arriving about three weeks before the assassination of Dr Martin Luther King, and leaving one week after the assassination of Robert Kennedy, who I believe might really have saved that country. In Britain it was the year in which the Labour Party, then in power, finally declared itself willing to go to any lengths to promote racism in this country for the sake of supposed electoral advantage.
+Dummett was one of the more influential philosophers of the late twentieth century, as well as a prominent activist in areas of immigration and race relations. The trivial yet challenging area of playing-card research was a recreational diversion for him.
+
+I found it almost impossible to do any more work on philosophy or logic than my teaching duties made essential: apart from the difficulty of finding the extended periods of time necessary for such work, both subjects present themselves as wholly serious; and in a time of such crisis, it seemed impossible to devote any energy available for serious work to anything so remote from the concerns of most people when there were so much more urgent calls upon it. But when one is engaged in what produces constant emotional anxiety, there is a need for some kind of refuge, and my new hobby became for me such a refuge. It presented sufficiently difficult and sufficiently intriguing problems to exercise the mind, but provoked no anxiety and seemed too far removed from serious concerns to compete with either my academic or my political work; it became a necessary recreation for me, almost a drug that could alone confer for an hour or two a piece of mind that was otherwise absent. I have, indeed, continued to pursue it long after I ceased to need any such refuge, and have transformed it from a recreation into a piece of research which, although only a hobby, was still undertaken as conscientiously as impossible; but I doubt if I should ever have become so absorbed with it as to carry it so far had it not in the first place been for a time an emotional necessity for me.
+And the rest is (Tarot) history.
+
+
+
+Sylvia Mann
+
+
+Sylvia Mann had an informal collaboration with Dummett, mentioned above, which he discussed in the Preface of The Game of Tarot. In turn, she presented an account of Dummett’s Tarot researches in the 1987 anthology, Michael Dummett: Contributions to Philosophy. We will begin with a passage from that chapter of hers, titled “Playing Cards”.
+
+The very fact that his attention had been held by this particular aspect of playing-cards dragged the whole attitude towards playing-card research kicking and screaming into the field of reality. A lot has been published about Tarot and other playing-cards during the past twenty years, about eighty per cent of which has been rubbish. Much of the best of the remainder has been catalogues of exhibitions held in Austria, France, Germany, Holland, Italy, Switzerland and at last, in 1982, in the U.K. These have been carefully and lovingly compiled, but mainly by art historians, who are interested chiefly in visual images. So here we had beautifully mounted displays, comparable to a collection of rare, dead butterflies, however attractively presented. Michael Dummett is the person who, above all others, had breathed life into these dead images. He has brought alive the purpose and use of the cards; at last one understands the why of certain packs, as well as the when. Gradually, I am sure mainly because of his efforts, museum curators interested in playing-cards are beginning to associate their possessions with their original use and are paying increasing attention to the history of particular games, especially national ones.
+The point she made in this 1987 piece remains true: “In my opinion, The Game of Tarot is the most important book on cards ever written. It is a huge work and obviously balanced in favour of Tarot cards, but his attempt to relate the earliest known European cards to ancestors and relations elsewhere is most impressive.” Further along, she makes this comment:
+
+Obviously he is listened to with attention, but it is really his written work (including papers originally read at meetings) which must emphasise what a milestone he is along the road taken by historians of playing-cards. There are still Philistines among us who cannot be bothered to follow his most carefully and closely reasoned deductions, ("Dummett? I can't understand a goddamn word he writes!") but anyone who really cares about cards and the truth about cards will always treat his words with the greatest respect. There are several individuals who also write with scholarly accuracy about cards but, with the exception of the aforementioned Professor [Detlef] Hoffmann(2), most of these are specialist writers dealing with extremely limited subjects, and none has Michael’s breadth of knowledge, particularly when concerned with cards intended for play and not for those thousands of decorative packs published more or less as artistic exercises or mere gimmicks, which few card players would favour.
+
+
+Sylvia Mann
+
+Sylvia Elizabeth Mann was a Londoner, born June 8, 1924, died November 6, 1994. She was a playing-card collector and historian. She authored Collecting Playing Cards in 1966, The Dragons of Portugal (with Virginia Wayland) in 1973, Collecting English Playing Cards in 1978, and the catalog Alle Karten auf den Tisch for a 1990 exhibition in Schaffhausen, Germany. She was a founding member and the first president of the IPCS, and editor of their journal, The Playing-Card. On her death, George Beal (Playing-Cards and Their Story, 1975) wrote a notice for the London Independent:
+
+“Sylvia Mann was an authority on the history and study of playing-cards. It was she who formulated much of the present classification of playing-cards of the world: the various national patterns and suit systems of Europe and also of Oriental cards. She was a founder, member, and past president of the International Playing-Card Society which, after nearly 25 years' existence, has members in more than 30 countries. It was Sylvia Mann who led the way in refuting the ridiculous claims that tarot cards were somehow occult and of mysterious ancient Egyptian...”
+
+Years earlier, Dummett had lauded Mann, her knowledge and understanding of playing-cards and her contributions to his own work in general and that book specifically. In particular, he singled out her distinction between standard pattern decks and novelty decks. This distinction is crucial to understanding the history of playing-cards, and this passage is worth quoting for that reason as well as for the acknowledgement.
+
+No articulated framework was provided for [the systematic study of playing-cards] until the publication in 1966 of Sylvia Mann’s unpretentious volume [“her masterly and lucidly written book, Collecting Playing Cards”]. She was the first to draw a clear distinction, absent from the catalogues of any of the great collections of playing-cards, between the standard and non-standard cards: that is, between those of a kind normally used for playing, on the one hand, and on the other, all other cards. The distinction may at first sight look to be an obvious one: but, obvious or not, it had not been drawn until Miss Mann drew it, and, once drawn, it introduced a great clarity into the subject.
+In fact, however, the distinction is not so obvious as it first appears, because standard cards may be differentiated from non-standard ones in either of two ways. The obvious distinction—even though this is not clearly drawn in the earlier books—is between cards whose design is largely or partly determined by some purpose extraneous to the use of cards to play card games, for instance that of advertising, political propaganda or educational instruction, and those whose design subserves no such further, albeit secondary, end. Not all those belonging to the latter category constitute standard cards, however. Among them we must again distinguish between those which card players would regard as normal playing-cards and those which they would see as special or as fancy, as cartes de fantaisie. And this, being a psychological distinction, is not always apparent from the cards themselves: to draw it, it is necessary to have historical knowledge. One must know what, at that time at which the cards were made, and in that place where, or, rather, for which, they were made, were regarded as the acceptable limits of variation in the design of normal playing-cards: within those limits, we have standard cards, outside them non-standard ones—although occasionally what is a new non-standard design when first produced may become a standard one if it gains sufficient popularity.
+Playing-cards are very ephemeral objects, and so only a tiny proportion survive from former centuries; and, as a result, our knowledge is very patchy. Perhaps, of some design of which tens of thousands of examples were produced, only a handful of cards from a single pack may have come down to us. It is therefore not surprising that earlier writers had simply failed to draw the crucial distinction introduced by Sylvia Mann between standard and non-standard cards; not, indeed, that, having been introduced, it is always easy in practice to draw. But it is a crucial distinction. Isolated experiments in playing-card design occur again and again, and are often of great beauty and therefore of interest to those for whom the study of playing-cards is an adjunct of art history; but they have no significance for the history of playing-cards as such. That acknowledged, how can we apply the distinction to early periods from which we have so few examples that we cannot readily tell what is customary and what is exceptional? Hard as this is to do, it has been made a great deal easier by the realization that, at all places and times, standard playing-cards conform to one or another standard pattern, another concept introduced, in its generality, by Miss Mann.… What earlier researchers had failed to grasp, or, at least, clearly to enunciate, is that the stereotyping of playing-card design into standard patters that then evolve only so gradually that the changes pass unnoticed by card players is a universal law, whether those patterns are consciously distinguished from others used elsewhere or are merely unconsciously accepted as the norm. Only by the introduction of the general concept of standard patterns could there have been a basis for a systematic taxonomy of standard playing-cards, a work now being undertaken by the Playing-Card Society of which Miss Mann was the first President. When we go back to the earliest times in the history of playing-cards, there is little hope of identifying for certain the cards that exhibit standard patterns, and distinguishing them from occasional variants or sports; but at least we are now clear about the content of our speculations when we conjecture that some early pack was or was not standard.
+Dummett credits Mann with far more than that, however, as noted on the title page: “with the assistance of Sylvia Mann” appears below his name. Since her contribution is commonly overlooked by those discussing The Game of Tarot, it is worth quoting Dummett a bit on the subject.
+
+Indeed, this book—the present Preface excepted—is to be regarded as a work of collaboration. I have done the actual writing, which Miss Mann has checked, making numerous helpful suggestions and corrections.… The work on documentary sources and on the rules of games has been mine; but the sections on the history of playing-cards are the outcome of a co-operative endeavour, extending over a decade. I have been able to make some discoveries in this area, such as those set out in Chapters 9 and 19, and have propounded some theories, to be found in Chapters 2, 3, and 20. But at every step I have been able to rely on the stream of information which she has provided me; and I have been stimulated by the equally constant flow of suggestions and ideas she has put forward, informed by an extremely sound judgment based on an almost unequaled knowledge of the subject. A great deal of what is said in this book about the history of playing-cards is therefore due to her, and hence also a great part of the credit.
+
+
+Stuart R. Kaplan’s Encyclopedia of Tarot
+
+Stuart Kaplan of U.S. Games
+Stuart R. Kaplan, president of U.S. Games Systems, Inc., had published The Encyclopedia of Tarot only two years earlier. In his Preface, Dummett takes Kaplan to task for his misleading presentation. Because Kaplan’s book is still important to anyone studying Tarot history today, these observations are worth repeating as a caveat.
+
+[The Encyclopedia of Tarot’s] object, as stated on p. xiii, is to bridge the gap between the occultist and the art historian. The result has inevitably been equivocation. In non-sensitive areas, that is, where presentation of the historical facts will not disturb the preconceptions of the occultist... there is indeed serious historical discussion.... But the book as a whole is organized in such a way as to conceal from all but the most alert of those readers previously unaware of the fact that, before 1781, Tarot cards were not used for any purpose other than to play card games, at least until such readers arrive at the very last chapter, which occupies a single page. This is effected by a historically inaccurate differentiation between the French word tarot and its German equivalent Tarock: Latin-suited packs are referred to as ‘tarot decks’, without any distinction between cartomantic ones and those intended for play, while French-suited ones are designated ‘tarock packs’, irrespective of country of origin, and the game is almost always referred to as ‘tarock’ and never as ‘tarot’. Moreover, in the entire book no clue is given as to the date of invention of the French-suited form of the pack, which in fact originated in the eighteenth century. Chapter XIV, which deals with ‘tarock packs’, i.e. French-suited ones, begins thus: ‘The game of tarock probably dates from the sixteenth century, possibly even the fifteenth century, and it continues in popularity today in certain sections of southwestern Germany, Austria, and Switzerland. early trumps were often highly artistic and depicted animals ... or full-length figures and scenes including operas, dancers, costumes ... Many of these early cards were hand stenciled.’ The effect on the previously uninformed reader must be to make him suppose that the French-suited pack dates back to at least the sixteenth century, and that it alone was used for the game of tarock, the Italian-suited cards, including the fifteenth-century ones discussed at length in previous chapters, having been intended for some other purpose; from the context, he could not guess that the ‘early trumps’ referred to dated from after 1750.
+This cleverness appears to be a conscious trick on Kaplan’s part. As another example of it, in his Preface where he introduces the subject matter of various chapters of his book, Kaplan has this to say about Chapter XIV. “This encyclopedia would not be complete without detailed information about the game of tarot, known in Europe as tarock. Chapter XIV contains photographs and descriptions of some thirty decks used for playing the game of tarock rather than fortune telling.” There is no question that Kaplan is leading the reader to false conclusions by this false distinction. Reading the paragraph of Dummett, and then reading Kaplan’s comments in the Preface to his own book, is enlightening in regard to the misleading occult apologetics presented by the Encyclopedia. Dummett concludes:
+
+The gap between the occultist and the serious historian is unbridgeable, because occultist theories rest upon a whole spurious pseudo-history of the Tarot pack. To give its true history is, necessarily, to puncture those theories; any attempt to avoid puncturing them obliges one, at best, to fudge the fact.
+
+
+Tom Toles cartoon from Nov. 15, 2010.
+
+
+Tarot Bibliography
+
+
+The Game of Tarot was just the first Tarot book from Dummett and, later, his co-authors. Its context today necessarily includes the entire shelf of Tarot books with his name on the cover. This short list is limited to books, but there are also many articles in different periodicals, notably including The Playing-Card, the journal of the International Playing-Card Society.
+
+One periodical, however, seems particularly noteworthy because of its iconographic observations. The feature “Tarot Triumphant”, with three Tarot articles, appeared in issue № 8 (January/February 1985) of FMR. (Copies can be found online via eBay and used book sellers.) Dummett’s article, “Tracing the Tarot”, provided an overview of early Tarot history and his clearest analysis of the design of the standard trump cycle. An article by William Voelkle discusses the Visconti-Sforza deck, and the 35 cards of the Pierpont Morgan Library collection are reproduced. The third article is a 19th-century short story involving Tarot. (The following year Dummett published his own volume on the Visconti-Sforza deck, with full-size reproductions of all 74 surviving cards.) The Italian edition of FMR published another article by Dummett at the same time. It was about the falsely so-called Charles VI Tarot deck, and included images of all the extant cards.
+
+
+
+
+The Game of Tarot: From Ferrara to Salt Lake City
+Dummett, Michael
+Duckworth (©1980)
+600 pages
+ISBN-10: 0715610147, ISBN-13: 9780715610145
+
+Twelve Tarot Games
+Dummett, Michael
+Duckworth (©1980)
+242 pages
+ISBN-10: 0715614851, ISBN-13: 9780715614853
+
+
+
+
+Di Trionfo in trionfo: Tarocchi di corte di Carlo VI
+Dummett, Michael
+FMR/ITALIAN № 30, Gennaio/Febbraio, 1985)
+15 pages
+ISSN: 0747-6388
+
+
+Tarot Triumphant
+Dummett, Michael, and William M. Voelkle
+FMR/AMERICA № 8, January/February, 1985)
+20 pages
+ISSN: 0747-6388
+
+The Visconti-Sforza Tarot Cards
+Dummett, Michael
+Paperback, George Braziller (©1986)
+141 pages
+ISBN-10: 0807611417, ISBN-13: 9780807611418
+
+
+
+
+Il Mondo e L'angelo: I Tarocchi e La Loro Storia
+Dummett, Michael
+Bibliopolis (©1993)
+489 pages
+ISBN-10: 8870882721, ISBN-13: 9788870882728
+
+I Tarocchi Siciliani
+Dummett, Michael
+La Zisa (©1995)
+176 pages
+ISBN-10: 8881280108, ISBN-13: 9788881280100
+
+
+
+
+A Wicked Pack Of Cards:
+The Origins of the Occult Tarot
+Decker, Ronald, Thierry Depaulis, and Michael Dummett
+St. Martin's Press (©1996)
+308 pages
+ISBN-10: 0312162944, ISBN-13: 9780312162948
+
+A History of the Occult Tarot: 1870-1970
+Decker, Ronald and Michael Dummett
+Duckworth Publishing (©2002)
+320 pages
+ISBN-10: 0715631225, ISBN-13: 9780715631225
+
+
+
+
+A History of Games Played With the Tarot Pack:
+The Game of Triumphs, Vol. 1
+Dummett, Michael and John McLeod
+Edwin Mellen Press (©2004)
+402 pages
+ISBN-10: 0773464476, ISBN-13: 9780773464476
+
+A History of Games Played With the Tarot Pack:
+The Game of Triumphs, Vol. 2
+Dummett, Michael and John McLeod
+Edwin Mellen Press (©2004)
+508 pages
+ISBN-10: 0773464492, ISBN-13: 9780773464490
+
+A History of Games Played With the Tarot Pack:
+The Game of Triumphs, Supplement
+Dummett, Michael and John McLeod
+Maproom Publications, (©2009)
+80 pages
+ISBN-10: 0956237002, ISBN-13: 9780956237002
+
+
+
+______________________
+
+Notes:
+1. As an example of how sound Dummett's research and analyses were, there have been some wonderful facts discovered recently regarding the first decade or so of Tarot history. The most striking was announced just this week: Thierry Depaulis discovered the earliest known documentation of Tarot, with some fascinating and suggestive details. Before these new discoveries, based on Dummett's research as of 1980, the likelihood was that Tarot was invented in either Ferrara, Milan, Bologna, or possibly Florence, probably in the late 1430s. After these great new findings of 2011 and 2012 have been taken into account, the best guess is that Tarot was invented in either Ferrara, Milan, Bologna, or Florence, probably in the late 1430s.
+2. On Hoffmann and Mann, from A Catalog of the Cary Collection: “Detlef Hoffmann and Sylvia Mann established the broader relevance of playing-cards. As a serious pursuit, the study of these materials extends beyond the concerns of the antiquarian. Hoffmann, with E. Kroppenstedt, affirmed the value of cards as cultural documents in a succession of catalogues of the holdings of the Deutsches Spielkarten Museum. Commencing in 1966.... [...] While these catalogues differ in thematic content and plan, their cataloguing method is uniform and consistently applied. The descriptions themselves are divided into two sections: the first part presents the pack's basic information such as title, manufacturer, date of manufacture, place, composition, dimensions, and process. [...] The entry then provides commentary on particular characteristics of the pack or points out relationships with other packs illustrated or discussed in the playing card literature. Most, if not all, entries are illustrated. [...] Sylvia Mann's Collecting Playing Cards was published in 1966 and appeared concurrently with the first work of the German series. It made collectors and scholars realize that playing-cards, even considering their great variety and number, could be studied in logical groups. For example, packs of cards used within a particular geographical region might share qualities of design, such as the attributes of the king or queen. In many cases these groups of cards may be given names and their traits listed in orderly fashion. For the first time in the playing card literature, Mann provides both names and extensive commentary for these card types. Because Collecting Playing Cards gave encouragement to collectors and opened new areas of inquiry, researchers perceived a need to exchange information on their findings. Collectors' newsletters had been in existence for many years; however, they could not accommodate the new historical approach to the subject proposed by Hoffmann and Mann. Discussion among British collectors resulted in the formation of the Playing Card Society, and Sylvia Mann was elected president. The inaugural meeting was held on September 9, 1972, at the University of East Anglia in Norwich.” It is worth noting that Hoffmann and Mann were beginning to establish the taxonomy of playing-cards at the same time when Dummett was taking up the study of playing-cards in general and Tarot history in particular.
+3. My thanks to Ross, not just for the short description of Twelve Tarot Games but also for scans of that and the two Italian book covers illustrated in the Bibliography section.

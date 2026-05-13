@@ -1,0 +1,613 @@
+teorema
+Vol. XXXII/1, 2013, pp. 141-155
+ISSN: 0210-1602
+[BIBLID 0210-1602 (2013) 32:1; pp. 141-155
+
+Dummett and the Game of Tarot1
+Carlo Penco
+
+RESUMEN
+En este artículo hago una reconstrucción de los argumentos más importantes de
+Dummett acerca de la teoría del origen oculto del Tarot y discuto las razones del éxito
+de la baraja del Tarot –en particular los Major Arcana– en la historia de los juegos de
+cartas. Doy también algunas indicaciones sobre los vínculos entre el interés de Dummett
+por la historia de los juegos de cartas y algunos aspectos de su transfondo filosófico.
+Dado que no soy un experto en juegos de cartas, este artículo es sobre todo un reconocimiento personal a una parte de la obra de Dummett a la que los filósofos han prestado generalmente poca atención.
+PALABRAS CLAVE: Dummett, Tarot, principio del contexto, singnificado como uso.
+ABSTRACT
+In this paper I give a reconstruction of Dummett’s main arguments concerning
+the theory of the occult origin of the Tarot, and discuss the reasons behind the success
+of the Tarot pack – in particular the Major Arcana – in the history of card games. I
+also provide some indication of the links between Dummett’s interest in the history of
+card games and aspects of his philosophical background. As I am not an expert on
+card games, this paper is mainly a personal tribute to a side of Dummett’s work to
+which philosophers have in general paid little attention.
+KEYWORDS: Dummett, Tarot, Context Principle, Meaning As Use.
+
+I. INTRODUCTION
+I met Michael Dummett at the end of the seventies. It was suggested that
+I study his book Frege: Philosophy of Language, which I would later translate
+into Italian. At my first meeting with Michael, his warmth and open mind encouraged me in my feeble attempts to study with such a formidable thinker. I
+spent a year in Oxford having weekly meetings with him, speaking of philosophy, experiencing his strong temperament also in personal matters, and discuss-
+
+141
+
+142
+
+Carlo Penco
+
+ing aspects of anti-realism and verification, without having any idea of his interest in Tarot, which was never mentioned in our meetings.
+I met him later during a Conference in Sicily in 19912; meanwhile I had
+been informed by Eva Picardi of Michael’s passion for Tarot and, as I walked
+with him towards the bus that would take us to the venue of the conference, I
+began to speak about the Major Arcana and their occult use. I would never
+have imagined such a strong, almost violent reaction: ‘I have no interest in the
+divinatory use of tarot cards; it is completely spurious and has no connection
+with the origin of the game’ (the quotation is a reconstruction of the conversation of which I remember the sense and the tone, but not the exact wording).
+In 2001 I invited Dummett to Genoa, where he gave a talk on relative
+truth [Dummett (2004)] and later asked him to give the introductory talk at
+the meeting ‘Analytic Philosophy and European Culture’ [Dummett (2007)].
+On both occasions he asked me whether I knew anyone in Genoa still able to
+play the game ‘Ganellini’, a kind of local Tarot, linked to the ‘Minchiate’,
+played in Tuscany. Unfortunately my research was not successful, and Michael was a bit disappointed; on the other hand, in Ferrara and Bologna, as
+Eva Picardi told me, he often went to local bars to play Tarot with players
+who were expert in traditional tarot games. However I did not touch on the
+topic of Tarot again, making a resolution to reconsider it later.
+The weakness of my resolution delayed any further work on the subject
+until – in 2010 – I was asked to present a paper on Dummett’s point of view
+on the Tarot.3 It was my opportunity to resolve some of the old uneasiness or
+embarrassment provoked by the reaction to my reference to Tarot at our
+meeting in Sicily, and to satisfy my curiosity concerning what were, for me,
+‘strange’ requests to find local players of ancient tarot games. On this occasion I began to read and study The Game of Tarot, from Ferrara to Salt Lake
+City [Dummett (1980)]. Reading the book I became more and more fascinated with the topic and in what follows I report my naïve reactions to the
+discovery of a world of problems I never imagined.
+The first question, however is: why did a scholar devoted to the most
+abstract and difficult theories in contemporary philosophy decide to devote so
+much of his time to a topic apparently so distant from his philosophy, and
+with a fundamentally historical approach? Here we need to make a short digression on Dummett’s political side. Along with his wife Ann, Michael
+Dummett always maintained a strong commitment to combating social problems, especially to the fight against racism.4 Dummett wrote much on electoral theories and even more on moral and political issues in newspapers,
+journals, UNESCO documents and books like On Immigration and Refugees
+[Dummett (2001)]. It was for his combination of social commitment and intellectual research that Dummett was awarded a knighthood by Queen Elizabeth in 1999. In a moment of particular difficulty for the antiracist struggle in
+Great Britain Michael Dummett realized that the stress of political commit-
+
+Dummett and the Game of Tarot
+
+143
+
+ment made it impossible for him to concentrate on pure philosophy. It was
+during this period that he decided to dedicate himself to the study of Tarot,
+assisted in his research by Sylvia Mann, who introduced him to the world of
+cards and card games. But why the game of Tarot? Certainly it was somewhat
+less demanding than pure philosophical research, but the choice of the topic is a
+case of serendipity, linked also to vivid memories of a young Michael who had
+a book on cartomancy with a section on Tarot specifying that the game of
+Tarot was still played in central Europe. The pictures and vivid images of the
+Major Arcana were certain to impress the imagination of a child, and Dummett
+later acknowledges: ‘this piece of information stuck in my mind; like many
+others, I was fascinated by the Tarot pack and, though I had no belief in the capacity by its means to foretell the future, I was consumed with curiosity as to
+what sort of game could be played with it’ [Dummett (1980), p. xx]. The origin
+of a story that brought one of the greatest philosophers of our age to devote his
+time, through a natural tenacity and perseverance, in order to make a fundamental contribution to the history of the game of Tarot, lies in his childhood.
+
+II. DUMMETT’S PROBLEM
+From various historical reconstructions it is normally accepted that the
+game of Tarot began in the late Middle Ages (around 1400); on the other
+hand, from 1700 onwards, we have evidence of a very strong association between Tarot and occultism or divination, especially with the Major Arcana
+(Triumphs). But then the question arises: how can the existence of Major Arcana since the late Middle Ages be explained?
+This is the main problem that Dummett wants to solve. A typical answer relies on the divinatory origin of card games; the first step is therefore to
+judge the soundness of this hypothesis. Dummett’s historical analysis, based
+on direct and indirect sources, suggests a totally different answer, and this is
+probably his fundamental contribution to the history of Tarot. I will present
+the main lines of his argument, starting with some basic undisputable data,
+which can be summarized as follows:
+— from 1377: Card games are introduced into Europe from Islam:
+Florence, Siena, Paris, Basel.
+— 1420-1450: Tarot spreads in Europe from Ferrara, Bologna and Milan
+towards Germany, Switzerland and France.
+— 1750-1800: First French theories of the occult and divinatory origin of
+Tarot.
+— from 1855: The theory of an occult and divinatory origin of Tarot
+consolidates.
+
+144
+
+Carlo Penco
+
+From these dates we can see that the regular pack of cards came first and the
+Tarot pack was introduced almost half a century later; the difference from the
+regular pack is the addition of twenty-two cards of a special kind (Triumphs
+or Major Arcana). It therefore seems difficult to deny that Major Arcana are
+at the origin of the game of Tarot, and this may suggest that the origin of the
+game is mainly divinatory and, as the name ‘Major Arcana’ expresses, relies
+on some ‘arcane’ or ‘occult’ aspect. This was a common interpretation prior
+to Dummett’s book.
+Dummett uses three kinds of arguments against the hypothesis of an
+occult-divinatory origin of the game of Tarot: (a) arguments from silence; (b)
+arguments from interpretation; (c) arguments from analysis of texts (where
+the polemical dimension is at its best).
+(a) Arguments from silence – We lack any data on or historical reference to divinatory uses of Tarot before the end of the XVII and the beginning
+of the XVIII Century; actually, from 1400 to 1600 we have an abundance of
+testimony on the use of the Tarot pack mainly as a court game, but also as a
+popular game. Therefore an ‘argument from silence’ helps us to conclude that
+there were no divinatory or occult uses of Tarot at that point. It is apparently
+possible to suppose that those uses were so occult that few could come to
+know of them, but this argument has no actual historical links; it is therefore
+not particularly compelling and may easily be considered mere fantasy.
+Certainly before the divinatory and occultist practice of Tarot we have
+evidence of a development of the practice of fortune telling with dice; a book
+on fortune telling by Francesco Marcolino da Forlì, published in Venice in
+1540, is initial evidence of fortune telling with playing cards; however this
+book opposes the hypothesis of an occult origin of the game of Tarot in two
+ways: firstly, cards from a regular pack (not a tarot pack) are used here for
+fortune telling; secondly, fortune telling is presented as a ‘randomising device’, with no relation to the occult.
+Divinatory Tarot cartomancy begun in France at the end of the XVIII
+Century with the Livre de Thot by Etteilla, and spread outside France only in
+the XIX, or ‘anti-enlightenment’ century. It should therefore be useful to study
+the Major Arcana of earlier times, in the 1400s or 1500s. This would help us to
+study the function of Major Arcana without the prejudices imposed by a divinatory use of which we have clear evidence only starting from France in 1700. It
+is therefore reasonable to study the origin and the function of Tarot backwards
+in Renaissance society analysing the role of Major Arcana without any reference to Marseille Tarot, which was used for divination only at a later stage.5
+(b) Arguments from implicature – Studying the reports on Tarot before
+the XVIII century provides conflicting evidence on the problem. A very interesting aspect is present in sermons and in many criticisms of the Tarot games
+
+Dummett and the Game of Tarot
+
+145
+
+that have been handed down since the time of the earliest uses of the game:
+these criticisms are typically addressed to its devastating consequences, such
+as moral degeneracy or waste of money, with no reference to its divinatory
+use. This argument is not simply an argument from silence, but it also allows
+us to infer the original use of the Tarot pack.
+One of the most vivid examples of such criticism in early times is a
+very famous sermon (Sermo perutilis de ludo cum aliis – end of the XV century) of a Dominican preacher, who inveighs against three kinds of games of
+chance: dice, cards and Triumphs – a reference therefore to Tarot games. The
+sermon speaks ‘about the third type of games, namely Triumphs. There is
+nothing related to games in this world so odious to God as the game of Triumphs’. Dummett comments: ‘it is simply not conceivable that anyone so intent as this Dominican on convincing his congregation that the cards of which
+he was speaking were the invention of the devil would have passed over in silence their use for magical purposes, if he had known of such a thing.’ But
+the Dominican is only complaining that images of the Pope, angels and even
+God (he claims) should not enter into a game of cards. It would be unreasonable that in the many religious prohibitions of card games present in numerous documents since the XIV century there were no explicit references to the
+magical and divinatory use, if such use were diffused or at least known.
+Dummett goes on to report many other criticisms and prohibitions,
+among which he quotes an edict promulgated at the end of the XVI century by
+King Henry III of France: the edict imposed a tax on each pack of regular
+cards, and was introduced with the following claim: ‘the games of cards,
+Tarot and dice ... instead of serving for pleasure and recreation in accordance
+with the intention of those who invented them, at the present time serve only
+to do harm and give rise to public scandal.’ Dummett comments: ‘the author
+of this edict had no doubt about the purpose for which the Tarot pack had
+been invented or the use to which it was currently put, and neither included
+fortune telling’ [Dummett (1980), pp. 98-100]. The conclusion is that attacks
+against Tarot are mainly against its use for betting; this implies that they were
+not used for cartomancy, and – following the edict of Henry III – that the
+original use was ‘pleasure and recreation’. Therefore a plain game of cards is
+supposed to be at the origin of the Tarot packs in Italian Courts at the beginning of the XV Century.
+(c) Arguments from text criticism – In The Game of Tarot Dummett is
+at his polemical best in denouncing and stigmatizing with great oratory heat
+the abuse of the occult vision of the origin of the game of Tarot, with a reconstruction of the arbitrary interpretation of the game and on the cards used
+for playing it.6
+The first to give wide theoretical space to the idea of the Tarot as an occult practice was Antoine Court de Gébelin (1719-1784), a Protestant pastor,
+
+146
+
+Carlo Penco
+
+Freemason and savant; he was the first to connect Tarot to ancient Egypt, and
+his ideas had a great diffusion through Etteilla (the reverse of his actual
+name, Alliette), a professional fortune teller in Paris. The fame of Etteila was
+due to his invention in 1783 of a method of cartomancy with the Tarot pack,
+referred to as ‘the book of Toth’, which later expanded into richer versions.
+Here lies the basis for the diffusion of the occult origin of Tarot: Etteilla himself claimed that the Tarot pack had been distorted from its original Egyptian
+form by the mistakes of the card makers, and suggested a new and ‘correct’
+cartomantic Tarot pack. Dummett comments:
+… without Etteilla there is no reason to suppose that anyone would have hit on
+the idea of using the Tarot pack for divination: most practitioners of fortune
+telling are singularly lacking in originality, and it was in Paris that the more
+successful ones practised, whereas … the traditional Tarot pack and the game
+played with it were virtually unknown in Paris through the entire eighteenth and
+nineteenth centuries [Dummett (1980), p. 113].
+
+It was, however, impossible to find an actual connection between the traditional Tarot, introduced in Southern France after the French conquest of Milan and Piedmont in 1499, and an Egyptian occult origin. To connect the
+traditional Tarot pack with the occult, something new was needed: the novelty came from Alphonse-Louis Constant (called ‘Eliphas Levi’), who in
+1855 published Le dogme de la haute magie, followed by Jean Baptiste Pitois
+(called ‘Paul Christian’ 1811-1877) who invented the term ‘Arcana’, using it
+in place of the more usual ‘Triumphs’. Dummett gives much space to details
+in presenting the contents of the books and the personal affairs of these and
+other representatives of the occult interpretation of Tarot (including the
+French occultist Papus, who coined the term ‘tarot de Marseille’). The
+evaluation is drastically negative, tending to show that they invented a tradition from nothing. Of Eliphas Levi, for instance, he says:
+a sober appraisal of Levi’s works on magic could characterise them only as the
+product of an advanced state of intellectual deliquescience. Nevertheless…he
+initiated a boom in occultist writing, and almost all his successors acknowledge
+their debt to him [Dummett (1980), p.120].
+
+Of the suggestion to refer to Triumphs with the term ‘Arcana’ Dummett gives
+a very harsh judgement: ‘Occultists of the grand sort never like to be reminded that, in speaking of the Tarot, they are talking about a pack of cards,
+and so they like to find other ways of referring to them, …’ [Dummett
+(1980), p. 124].
+Basically Dummett criticizes the superficiality and approximation
+shown by all the authors that defend the occultist conception of Tarot, and
+who take the liberty of inventing occultist origins for the game without un-
+
+Dummett and the Game of Tarot
+
+147
+
+derstanding or attempting to understand the more reasonable links of etymology. They connect the word ‘Tarot’ with hermetic, occult or sacred origins
+(like the Hebrew word torah, or the name of the goddess Ashtaroth), with no
+attention to genuine historical and exegetical research:
+What is more striking about the writings of the neo-occultists concerning the
+Tarot pack is their complete indifference to any genuine historical evidence. Although tarot cards do not, as they supposed, have a history extending over millennia, they do have one of several centuries; and one might have expected men
+who revered them as a source of the deepest wisdom, and who spent a great
+deal of their time in thinking and writing about them, to have made some effort
+to discover what the history was [Dummett (1980), p. 135].
+
+But they appear never to have taken the trouble to acquaint themselves with
+the ascertainable facts about the history of the Tarot pack, and this is the
+main accusation that can be made against them. A minimum of simple historical research deprives all inventions of the occult origins of the name of
+significance when it is ascertained that the French word ‘tarot’ derives from
+the Italian ‘tarocco’ [Dummett (1980), p. 135].
+(d) Non-conclusive proof is still proof – Certainly Dummett is very conscious that he has no conclusive proof of his historical claims, which are provisional and based partly on fact and partly on inference. Still, he may
+conclude on these grounds that the claim that Tarot has a divinatory origin
+linked to the occult sciences is highly improbable and without documentary
+justification. It appears on the other hand almost certain that Tarot was invented for card playing in the court environment of the Italian aristocracy
+around 1400, and that it derives from standard playing cards, supplemented
+with the Triumphs, only later called “Major Arcana”.
+We are now in the realm of empirical hypothesis: historical research is
+often grounded on the analysis of what is not, apart from the analysis of what
+is. This must not make us forget, as even historians occasionally do, that historical research is a pursuit of truth.7
+The discussion and almost conclusive evidence against a consolidated but
+erroneous theory of the origins of the game of Tarot leaves one unanswered
+question. Why was the Major Arcana inserted into the Tarot pack, with a
+great difference with respect to the standard card pack? And what explains
+the presence of the Major Arcana since the Middle Ages, if the explanation of
+the origin is not with reference to magic and the occult?
+
+148
+
+Carlo Penco
+III. DUMMETT’S SOLUTION AND THE MEANING OF CARDS
+
+The solution to the mystery, or – better – a sound answer to the problem, is provided by an argument in which Dummett implicitly applies some
+of his basic philosophical ideas; it is not difficult to read in his strategy an
+analogy of the critique of Locke’s conception of meaning given by Frege in
+his Grundlagen der Arithmetik, as well as other basic Fregean and Wittgensteinian principles. Let us start with the criticism of Locke: Frege remarked
+that in looking for the meaning of a word Locke was analysing words in isolation, concluding that meaning is the idea or representation that corresponds
+to the word. But there are words to which no idea corresponds, and we can
+still attribute a meaning to them. Locke’s mistake is exactly to look for the
+meaning of words in isolation, while ‘only in a proposition have the words
+really a meaning’ [Frege (1884), §60]. This Fregean critique represents a cornerstone of Dummett’s analysis of Frege’s thought, the ‘context principle’,
+that has also been taken over by Wittgenstein, both in Tractatus and in the
+Philosophical Investigations, with an analogy with the game of chess that
+Frege also often used in his works: the meaning of a word is its role in the
+language game.8
+In this context we are discussing not words, but playing cards; the argument however is similar, and it looks as if Dummett was implicitly suggesting that, to look for the occult meaning of the Major Arcana, those who
+search for esoteric, hidden meanings make a mistake similar to that of Locke
+in his search for the meaning of words: although they realize a kind of succession or order in the figures, they still look for an ‘arcane’ meaning of the
+Major Arcana, studying each figure in isolation, forgetting that their meaning
+lies not in the individual picture, but in the role they have in the game. To the
+question as to where to find the meaning of the Major Arcana of the Tarot,
+Dummett’s answer is in fact coherent with his philosophy: given the positive
+evidence that the Major Arcana or triumph cards were regarded from the beginning as forming an ordered sequence, he claims that,
+to understand the purpose for which the Tarot pack was invented we have therefore to ask for what reason an ordered sequence of cards, of different length and
+composition from the ordinary suits, was added to the regular pack (…) Obviously to find an answer, we have to look at the role that these cards play in the
+game, on the reasonable assumption that the essential features of the game, in
+the various forms in which it was later played, belonged to it from the start
+[Dummett (1980), p. 166].
+
+This quotation is reminiscent of the context principle applied to cards, and we
+might translate it with a motto like: ‘don’t look for the meaning of Triumphs in
+the study of their images in isolation; their meaning is their role in the game’.
+
+Dummett and the Game of Tarot
+
+149
+
+The problem is that we have no description of any game played with the
+Tarot pack before the first half of the XVII century. We need therefore to find
+evidence ‘to extrapolate backwards’ in order to determine ‘with high probability’ the main features of the original game played with the Tarot pack at
+the time of its invention, in the first half of the XV century. And we have to
+ask why the twenty-two additional cards (the Major Arcana or Triumphs)
+were added to the regular pack. In Chapter 7 of The Game of Tarot [Dummett
+1980] the analysis of Tarot as a game is worked out as a part of the great history of playing cards; the analysis is full of interesting details, and here I will
+give the main lines of the historical argument presented by Dummett.
+From their origins card games have been developed in thousands of different forms. However, the human capacity of invention is limited and ‘great’
+inventions of ‘great turns’ in the history of card games are few; we may list
+here the most significant:
+1. Use of cards for gambling (an extension of gambling with dice);
+2. Use of different suits in a card deck (a total novelty relative to dice);
+3. Use of cards with different point values for different cards, and turns
+(hands) in the game (trick-taking games);
+4. Use of trumps, that is a kind of card which wins over all others;
+5. Use of bidding, originating with the old Spanish card game, ‘Hombre’,
+derived probably from an earlier game, ‘Primero’, and which developed into many other games, including Bridge.
+The first three innovations took place in China and later developed into card
+games, first in Persia and later in India and Europe. The fourth and the fifth
+seem to be original to Europe, the fifth being a well-known Spanish invention
+with the fourth the problem to be solved. When was the use of the trumps introduced for the first time? How was this innovative turn in the great history
+of card games invented?
+‘In games, as in all other fields, human invention usually proceeds a
+step at a time; we cannot expect more than one, or at most two, new ideas
+from the same source simultaneously’ [Dummett (1980), p. 170]. A detailed
+analysis of card games during the early Renaissance period suggests that in
+the Courts of Italy – while trick-taking games were already well known in
+Europe – a new invention excited the card players to such a degree that it
+spread throughout Europe: the invention of a set of new cards with special
+figures whose role was to win over all other normal suits.9 One can imagine
+
+150
+
+Carlo Penco
+
+the excitement generated by a newly invented kind of game, with a new set
+of figures with a different role from that of regular cards.
+The following is a simple, but explicative suggestion (an inference to
+the best explanation): the point of the introduction of the Major Arcana was
+exactly the introduction of cards as trumps, as the etymology of the name
+confirms [Dummett (1980), p. 172]. Actually there are various hypotheses on
+why the Major Arcana were previously called ‘Triumphs’ (‘trionfi’); on one
+hypothesis they were called ‘Triumphs’ because they ‘triumph’ over the other
+cards; on another hypothesis they are called ‘Triumphs’ because they recall
+the processions of allegorical figures that delighted Italian Renaissance
+courts. Apparently the two hypotheses are not incompatible; ‘in any case, it is
+beyond question that, at around 1500, a word formerly reserved exclusively
+for Tarot cards was borrowed for games played with a regular pack and rapidly came to mean simply ‘trumps’, and this would be inexplicable if tricktaking games with trumps had been played with regular packs since before
+the Tarot pack was first invented’ [Dummett (1980), p. 180].
+Thus we may explain not only the origin, but also the success of the
+Tarot: the invention of the Tarot pack was ‘one of the great moments in the
+history of cards’ [Dummett (1980), p. 173], and its success was due to the
+diffusion of and excitement created by the idea of trumps that, at the beginning, was realized with a new sequence, different from the regular pack, or
+from the existing suits, but was later incorporated into the regular packs of
+cards for the sake of simplicity (although the ‘matto’ or the Joker in modern
+packs still retains this feature of being totally different from all other cards).
+But what of the magical doctrine of the Renaissance? Recent historical
+research has demonstrated the strict connections of such doctrine with the
+beginning of modern science; but, according to Dummett, ‘in this system of
+beliefs playing cards ... had no role to play whatsoever; they belonged to a
+completely different order’ [Dummett (1980), p. 94]. However it is not improbable that the environment of magical doctrines in the Renaissance period
+influenced the particular design and the images of the ‘Triumphs’, from their
+first acknowledged use in Ferrara by the painter Sagramoro for the Duke of
+Este. As regards the origin of the kinds of pictures, there is therefore a probable connection with the hermetic and astrological cultural environment of
+Renaissance. But this does not amount to a connection of the card games with
+the occult. As Dummett recognizes, the first painters of the Triumphs used
+easily memorisable pictures and therefore something from the imaginary repertoire of the time: more widespread than other images we find images of the
+Triumphs derived from the Renaissance courts where alchemy, astrology and
+divination were present. But, from the point of view of the game, the images
+were not important (except for memorisation). Evidence of the fact that the
+use of Triumphs is not so strictly connected with the traditional apparently
+esoteric figures is that – in contexts different from the Italian Renaissance
+
+Dummett and the Game of Tarot
+
+151
+
+courts – Triumph cards used totally different figures, such as for instance,
+animals and plants, as occur in the Triumphs of Austrian, Bavarian and Belgian Tarot packs (see appendix). The enlightenment attitude of historical research based on evidence and verification dispels the fog of a supposed
+esoteric origin of Tarot pack revealing the importance of the role of Triumphs in the history of card games, without any connection with an original
+divinatory usage.
+
+IV. PHILOSOPHY AND FORM OF LIFE
+It is possible that, in order to completely distance himself from a tradition that confounds the use of Tarot for divination with the origin of Tarot,
+Dummett too hastily dismissed the influence of esoteric culture of Renaissance courts on the origin of the particular choice of figures in the Major Arcana. Neoplatonic ideas were common in late Middle Age and Renaissance
+courts and, as Dummett himself recognizes, there was a strict connection between the search for magic and esoteric themes and scientific ones (alchemy
+and astrology were mixed with the beginning of the new scientific endeavours). It is therefore difficult to deny, as sometimes Dummett seems to do, an
+esoteric origin of the images of the Italian Triumphs. But here the idea of
+searching for the meaning of the cards not in their images but in the roles
+they have in the game has a great advantage for clarifying and distinguishing
+two different problems: on the one hand the origin of the images of the Tarot
+pack derived from the inventory of the imaginary of the time, and on the
+other hand the origin of the roles given to this new kind of figures in the card
+games.
+The polemical power Dummett wielded against the deformation of the
+history of Tarot is grounded on a sound scientific method in historical analysis, where hypothesis must be tested against the evidence and probabilities. A
+few of the basic points are sometimes sufficient to discard years and volumes
+of unsound invented hypothesis, as happens with his suggestion to skip from
+the analysis of the Marseille Tarot pack of XVIII century to the study of handpainted Tarot packs used in the Italian courts for playing cards in the XV century: when the attention shifts from the more recent French Tarot Packs to the
+older ones ‘the impression of quaintness and of the sinister vanishes. The
+symbolism may not always be transparent to us, but it does not seem to have
+been intended to be opaque; the air is clear and unclouded by the smoke of
+the sorcerer’s incantations’ [Dummett (1980), p. 101].
+Can we find, at the bottom of this historical research, any connection
+with Dummett’s philosophy, beyond the idea that the meaning of cards is to
+be found in the context of the rules of the game? Let me conclude with a connection with a Wittgensteinian reminder on which Dummett had mixed feel-
+
+152
+
+Carlo Penco
+
+ings: rules can always be interpreted in new ways, but there is something
+which is not an interpretation: the social practice of rule following [Wittgenstein (1953), § 201]. Although Dummett criticized much in Wittgenstein’s
+philosophy of mathematics, in his discussions with Davidson he often insisted on the priority of social practice over idiosyncratic interpretation, of
+language over idiolect [Dummett (1994), (2007a)]. The social function of
+card games involves humans following rules; rule following is a primitive
+phenomenon that characterizes the human form of life; it is a social practice
+linked to uses and conventions, a capacity that differentiates humans from
+other animals that follow natural regularities but do not invent or follow conventional rules. Perhaps to a logician, as Dummett also was, the games of
+Tarot in their variety may seem procedural variants of a complex logical calculus (whose complexity is given by the need to make hypotheses on the
+choices of other players). Card games, with their capacity to help people enjoy company while following explicit rules, can be considered a refuge
+against irrationalism and the invention of occult processes for ‘the few’. Certainly playing the original Tarot game in its variants is more difficult than
+playing with Major Arcana for purpose of divination; to play the actual
+games requires competence in the rules, which are often difficult to learn and
+follow. But it is a clear and honest game, where the rules have to be adhered
+to, as in any other card game.
+The cartomantic aspect draws a distinction between two kinds of users,
+those who predict the future and those who are subjected to listening to them:
+the masters and the followers. On the contrary, card playing does not make this
+kind of division: all participants are on the same ground. Probably, the cartomantic aspect provokes rebellion in a rational and philosophical mind, whose
+aim is to dissolve the haze developing from confused and vague suggestions.
+The haze dissolves when we study the Tarot games in their effective functioning. This can be a difficult enterprise, and requires time and patience, especially
+in the kinds of games explained and analysed in the books on Tarot written by
+Sir Michael Dummett. I like to think of him, in Bologna’s and Ferrara’s ‘trattorias’ and bars, playing Tarot with the old people of the place, becoming angry
+when losing and enjoying himself when winning, but always accepting the
+rules of a game to whose history he has dedicated so much intellectual labour.
+
+Dipartimento di Filosofia
+Università degli Studi di Genova
+Via Balbi, 4, 16126 Genova GE, Italy
+E-mail: penco@unige.it
+
+Dummett and the Game of Tarot
+
+153
+
+NOTES
+1
+
+I wish to thank Eva Picardi, Margherita Benzi and Frank Bagg for suggestions
+on earlier versions of the paper.
+2
+See Oliveri -McGuinness (1994).
+3
+I sent the Italian text of my talk to Michael, who wrote me few lines of appreciation on these unexpected comments about a topic to which few of his former students in philosophy normally dedicate much time (on July 12, 2011 he wrote, in
+Italian, a thought that may be translated into: ‘Dear Carlo, I am very grateful to receive a copy of ‘I tarocchi di Dummett’, and I am very grateful you have written such
+a paper. I have read it with great pleasure’).
+4
+Michael and Ann Dummett dedicated both much time and action to antiracism in England, from personal involvement in the sixties, to engagement in research and polemical discussions as testified to, for instance, in Dummett A. (1973),
+Dummett A. (1976) and, later, in Dummett A. (1987).
+5
+A nice example is Dummett’s discussion of the Visconti-Sforza Tarot cards, a
+masterpiece of mid fifteenth century Italian Art in the Gothic style [Dummett (1986)].
+6
+See also Dummett M., Decker R. and Depaulis T. (1996), who expand the information given in Dummett (1980) on the inventors of the magic origin of Tarot, and
+Dummett M. and Decker R. (2002), who follow the development of the use of Tarot
+in the occult after the XVII and XIX century. Dummett (1993) is an enriched version of
+Dummett (1980), translated and edited by Eva Picardi.
+7
+This was the exact starting point of the paper on relative truth he gave in
+Genoa in 2001 [Dummett (2004)].
+8
+[Frege (1884),§§ 60, 62], [Wittgenstein (1953) §§ 49;199], [Dummett (1973),
+Ch. 6, § 9], [Dummett (1981), Ch.19].
+9
+For a detailed analysis of this step see Dummett (1980), pp. 12-173.
+
+REFERENCES
+DUMMETT, A. (1973), A portrait of English Racism, London, Penguin.
+–– (1976), Citizenship and Nationality, London, Runnymede Trust.
+–– (1987), ‘Anti-anti-racism’, London Review of Books, vol 9, n.13 pp. 12-14 (for the
+discussion see: http://www.lrb.co.uk/v09/n13/ann-dummett/anti-anti-racism).
+DUMMETT, M. (1973), Frege: Philosophy of Language, London, Duckworth.
+–– (1980), The Game of Tarot from Ferrara to Salt Lake City, London, Duckworth.
+–– (1981), The Interpretaton of Frege’s Philosophy, London, Duckworth.
+–– (1986), The Visconti-Sforza Tarot Cards, New York, George Braziller.
+–– (1993), Il mondo e l'angelo. I tarocchi e la loro storia, Napoli, Bibliopolis.
+–– (2001) On Immigration and Refugees, London, Routledge.
+–– (2004), ‘Relative Truth’ in Marsonet, M. and Benzi, M. (eds.) Logic and Metaphysics, Genova: Name, pp. 91-102.
+–– (2007), ‘The Place of Philosophy in the European Culture’ European Journal for
+Analytic Philosophy, III, 2007, pp. 21-32.
+
+154
+
+Carlo Penco
+
+–– (2007a), ‘Reply to Carlo Penco’ in Auxier, R. E. and Hahn, L.E. (eds.) The Philosophy of Michael Dummett - Library of Living Philosophers, vol. XXXI, Chicago,
+Open Court, pp. 591-599.
+DUMMETT, M., DECKER, R., and DEPAULIS, T. (1996), A Wicked Pack of Cards, New
+York, San Martin Press.
+DUMMETT, M. and DECKER. R. (2002), A History of the Occult Tarot, 1870-1970,
+Bath, Bookcraft.
+FREGE, G. (1884), Die Grundlagen der Aritmetik, Breslau: Wilhelm Loebner; Engl.
+Tr. J. L. Austin, The Foundations of Arithmetic, Oxford, Blackwell.
+OLIVERI, G. and MCGUINNESS, B. eds. (1994), The Philosophy of Michael Dummett,
+Dordrecht, Kluwer.
+WITTGENSTEIN, L. (1953), Philosophical Investigations, Oxford, Blackwell.
+
+Dummett and the Game of Tarot
+
+155
+
+APPENDIX
+Images of Austrian, Belgian, and Bavarian Triumphs of ancient Tarot packs,
+with pictures of animals and plants.
+
+Images from the web site of the International Playing-Card Society, [http://i-p-c-s.org/pattern/].
+The picture quality is below the usual standard of the IPCS because the reproductions date from
+before high resolution scanners.
+
+7+(25,$
+5(9,67$'(7(25,$+,6725,$<)81'$0(1726'(/$&,(1&,$
+
+
+
+92/
+
+
+
+
+'HS/HJDO66
+
+180%(5
+,661
+
+6(37(0%(5
+
+
+(OHFWURQLF,661;
+
+680$5,2&217(176
+
+0212*5$3+,&6(&7,21
+
+5HWKLQNLQJ7KH6WUXFWXUHRI6FLHQWLILF5HYROXWLRQV
+*XHVW(GLWRU-XDQ90D\RUDO
+
+-XDQ0$<25$/
+)LYH'HFDGHVRI6WUXFWXUH$5HWURVSHFWLYH9LHZ
+
+
+
+3DXO+2<1,1*(1+8(1(
+3KLORVRSKLFDO(OHPHQWVLQ7KRPDV.XKQV+LVWRULRJUDSK\RI6FLHQFH
+
+
+
+$OH[DQGHU%,5'
+:KDW&DQ&RJQLWLYH6FLHQFH7HOO8V$ERXW6FLHQWLILF5HYROXWLRQV"
+
+
+
+*HRUJH5(,6&+
+7KH3DUDQRLG6W\OHLQ$PHULFDQ+LVWRU\RI6FLHQFH
+
+
+
+
+$57,&/(6
+
+7MHUN*$8'(5,6DQG)UHGHULN9$1'(3877(
+$EGXFWLRQRI*HQHUDOL]DWLRQV
+
+
+
+&DUPHQ0$57Ì1(=$'$0(
+
+7KH3DUDOOHORJUDP/DZLQWKH:RUNVRIG$OHPEHUWDQG.DQW
+
+%22.5(9,(:6
+
+5)ULJJ 0&+XQWHUHGV%H\RQG0LPHVLVDQG&RQYHQWLRQ 0$5,292506 
+
+$QWRQL*RPLOD9HUEDO0LQGV 9,&725)(51É1'(=&$6752 
+
+
+
+
+
+
+
+
+&80RXOLQHV(OGHVDUUROORPRGHUQRGHOD)LORVRItDGHOD&LHQFLD 0$5Ì$&$$0$f2 
+
+
+
+%ULDQ6N\UPV6LJQDOV(YROXWLRQ/HDUQLQJDQG,QIRUPDWLRQ -(686=$025$=255,//$ 
+
+
+
+6800$5<
+
+
+
+&217(1762)98/0( 
+
+
