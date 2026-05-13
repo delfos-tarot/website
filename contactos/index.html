@@ -867,5 +867,155 @@
   </div>
 </footer>
 
+<!-- ─── SIGNUP MODAL ─────────────────────────────────────────── -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button class="modal-close" id="modal-close" aria-label="Fechar">&times;</button>
+
+    <div id="modal-form-wrap">
+      <h2 id="modal-title">Subscreva às novidades</h2>
+      <p class="modal-sub">Seja a primeira pessoa a saber de descontos, novidades, ou novos cursos.</p>
+
+      <div id="form-error" style="color: oklch(0.75 0.12 85 / 0.9); font-size: 0.8rem; margin-bottom: 0.75rem; display:none;"></div>
+
+      <form id="signup-form" novalidate>
+        <div class="form-field">
+          <label for="name">Nome</label>
+          <input type="text" id="name" name="name" placeholder="O seu nome" autocomplete="name">
+          <span class="field-error" id="name-error"></span>
+        </div>
+        <div class="form-field">
+          <label for="email">E-mail</label>
+          <input type="email" id="email" name="email" placeholder="O seu e-mail" autocomplete="email">
+          <span class="field-error" id="email-error"></span>
+        </div>
+        <div class="form-field-check">
+          <input type="checkbox" id="consent" name="consentimento" value="sim">
+          <label for="consent" class="check-label">Aceito comunicações da Delfos.</label>
+          <span class="field-error" id="consent-error"></span>
+        </div>
+        <button type="submit" class="modal-submit" id="form-submit">Subscrever</button>
+      </form>
+    </div>
+
+    <div class="modal-success" id="modal-success" data-fs-success>
+      <p>Obrigado.</p>
+      <span>Entraremos em contacto em breve.</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  const hamburger = document.getElementById('hamburger');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const iconMenu  = document.getElementById('icon-menu');
+  const iconClose = document.getElementById('icon-close');
+  const enrollBtn = document.getElementById('enroll-btn');
+
+  function syncEnrollVisibility() {
+    const isMobile = window.innerWidth < 768;
+    enrollBtn.style.display = isMobile ? 'none' : 'inline-block';
+  }
+  syncEnrollVisibility();
+  window.addEventListener('resize', syncEnrollVisibility);
+
+  const headerEl = document.querySelector('header');
+  window.addEventListener('scroll', () => {
+    headerEl.classList.toggle('scrolled', window.scrollY > 60);
+  }, { passive: true });
+
+  hamburger.addEventListener('click', () => {
+    const isOpen = mobileMenu.classList.toggle('open');
+    iconMenu.style.display  = isOpen ? 'none'  : 'block';
+    iconClose.style.display = isOpen ? 'block' : 'none';
+  });
+
+  function closeMobile() {
+    mobileMenu.classList.remove('open');
+    iconMenu.style.display  = 'block';
+    iconClose.style.display = 'none';
+  }
+
+  const overlay = document.getElementById('modal-overlay');
+
+  function openModal() {
+    overlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    overlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  document.getElementById('modal-close').addEventListener('click', closeModal);
+  overlay.addEventListener('click', e => { if (e.target === overlay) closeModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+  const signupForm = document.getElementById('signup-form');
+  const submitBtn  = document.getElementById('form-submit');
+  const formError  = document.getElementById('form-error');
+
+  function setFieldError(id, msg) {
+    const input = document.getElementById(id);
+    const span  = document.getElementById(id + '-error');
+    span.textContent = msg;
+    msg ? input.classList.add('invalid') : input.classList.remove('invalid');
+  }
+
+  function clearErrors() {
+    ['name','email','consent'].forEach(id => setFieldError(id, ''));
+    formError.style.display = 'none';
+    formError.textContent = '';
+  }
+
+  signupForm.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    clearErrors();
+
+    const name  = document.getElementById('name').value.trim();
+    const email = document.getElementById('email').value.trim();
+    const emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    let valid = true;
+
+    if (!name) { setFieldError('name', 'Por favor introduza o seu nome.'); valid = false; }
+    if (!email) { setFieldError('email', 'Por favor introduza o seu e-mail.'); valid = false; }
+    else if (!emailRe.test(email)) { setFieldError('email', 'Endereço de e-mail inválido.'); valid = false; }
+    const consent = document.getElementById('consent');
+    if (!consent.checked) { setFieldError('consent', 'Por favor aceite para continuar.'); valid = false; }
+    if (!valid) return;
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'A enviar…';
+
+    try {
+      const res = await fetch('https://formspree.io/f/xjgjzvkj', {
+        method: 'POST',
+        body: new FormData(signupForm),
+        headers: { 'Accept': 'application/json' }
+      });
+
+      if (res.ok) {
+        document.getElementById('modal-form-wrap').style.display = 'none';
+        document.getElementById('modal-success').style.display = 'block';
+        setTimeout(closeModal, 3000);
+      } else {
+        const json = await res.json().catch(() => ({}));
+        formError.textContent = json.error || 'Ocorreu um erro. Por favor tente novamente.';
+        formError.style.display = 'block';
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Subscrever';
+      }
+    } catch (_) {
+      formError.textContent = 'Sem ligação. Por favor verifique a sua internet e tente novamente.';
+      formError.style.display = 'block';
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Subscrever';
+    }
+  });
+</script>
+
 </body>
 </html>
