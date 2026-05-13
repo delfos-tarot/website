@@ -2,13 +2,13 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="images/delfos-academia-tarot-emblema.png">
-  <meta property="og:title" content="Biblioteca — Delfos Academia de Tarot">
-  <meta property="og:description" content="Referências essenciais para o estudo do tarot a partir de uma base histórica e documentada.">
+    <link rel="icon" type="image/png" href="/images/delfos-academia-tarot-emblema.png">
+  <meta property="og:title" content="Blog — Delfos Academia de Tarot">
+  <meta property="og:description" content="Artigos e reflexões sobre a história e os sistemas do tarot.">
   <meta property="og:image" content="images/delfos-academia-tarot-emblema.png">
   <meta property="og:type" content="website">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Biblioteca | Delfos Academia de Tarot</title>
+  <title>Blog | Delfos Academia de Tarot</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
@@ -30,10 +30,8 @@
       --ivory-50:       oklch(0.95 0.01 90 / 0.5);
       --ivory-40:       oklch(0.95 0.01 90 / 0.4);
       --cream:          oklch(0.92 0.02 90);
-      --cream-dark:     oklch(0.88 0.02 90);
       --aubergine:      oklch(0.12 0.02 300);
       --aubergine-60:   oklch(0.12 0.02 300 / 0.6);
-      --aubergine-40:   oklch(0.12 0.02 300 / 0.4);
       --aubergine-80:   oklch(0.12 0.02 300 / 0.8);
       --aubergine-90:   oklch(0.12 0.02 300 / 0.9);
       --aubergine-light:oklch(0.18 0.03 300);
@@ -258,131 +256,142 @@
       margin: 0 auto;
     }
 
-    /* ─── LIBRARY ────────────────────────────────────────── */
-    .library {
+    /* ─── BLOG ───────────────────────────────────────────── */
+    .blog {
       background: var(--cream);
       padding: 5rem 1.5rem 7rem;
     }
 
-    .library-inner {
-      max-width: 800px;
+    .blog-inner {
+      max-width: 720px;
       margin: 0 auto;
     }
 
-    .library-intro {
-      text-align: center;
-      margin-bottom: 4rem;
-      padding-bottom: 3rem;
-      border-bottom: 1px solid oklch(0.12 0.02 300 / 0.12);
+    .blog-list {
+      display: flex;
+      flex-direction: column;
     }
 
-    .library-intro p {
-      color: oklch(0.12 0.02 300 / 0.7);
-      font-size: 1.0625rem;
-      line-height: 1.8;
-      max-width: 560px;
-      margin: 0 auto 1rem;
+    .blog-entry {
+      padding: 2.5rem 0;
+      border-bottom: 1px solid oklch(0.12 0.02 300 / 0.08);
     }
 
-    .library-intro p:last-child {
-      margin-bottom: 0;
-      font-size: 0.9375rem;
-      color: oklch(0.12 0.02 300 / 0.55);
+    .blog-entry:first-child {
+      padding-top: 0;
     }
 
-    .library-section {
-      margin-bottom: 3.5rem;
-    }
-
-    .library-section:last-child {
-      margin-bottom: 0;
-    }
-
-    .library-section-title {
-      font-family: 'Inter', system-ui, sans-serif;
-      font-size: 0.6875rem;
-      letter-spacing: 0.3em;
-      text-transform: uppercase;
-      color: var(--gold);
-      font-weight: 500;
-      margin-bottom: 1.75rem;
-      padding-bottom: 0.75rem;
-      border-bottom: 1px solid oklch(0.12 0.02 300 / 0.1);
-    }
-
-    .library-entry {
-      padding: 1.5rem 0;
-      padding-left: 0;
-      border-bottom: 1px solid oklch(0.12 0.02 300 / 0.06);
-      border-left: 2px solid transparent;
-      transition: padding-left 0.2s, border-left-color 0.2s;
-    }
-
-    .library-entry:hover {
-      padding-left: 0.75rem;
-      border-left-color: var(--gold-50);
-    }
-
-    .library-entry:last-child {
+    .blog-entry:last-child {
       border-bottom: none;
     }
 
-    .library-section-subtitle {
-      color: oklch(0.12 0.02 300 / 0.55);
-      font-size: 0.9375rem;
-      line-height: 1.7;
-      margin-bottom: 1.5rem;
-    }
-
-    .library-entry-author {
-      font-family: 'Inter', system-ui, sans-serif;
-      font-size: 0.75rem;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: oklch(0.12 0.02 300 / 0.55);
-      margin-bottom: 0.35rem;
-      font-weight: 500;
-    }
-
-    .library-entry-title {
-      font-family: 'Cormorant Garamond', Georgia, serif;
-      font-size: 1.25rem;
-      font-style: italic;
-      color: var(--aubergine);
-      font-weight: 400;
-      line-height: 1.4;
-      margin-bottom: 0.5rem;
-    }
-
-    .library-entry-desc {
-      color: oklch(0.12 0.02 300 / 0.65);
-      font-size: 0.9375rem;
-      line-height: 1.7;
+    .blog-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
       margin-bottom: 0.75rem;
     }
 
-    .library-entry-link {
+    .blog-date {
+      font-size: 0.6875rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: oklch(0.12 0.02 300 / 0.45);
+      font-weight: 500;
+    }
+
+    .blog-tag {
+      font-size: 0.625rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold-70);
+      border: 1px solid var(--gold-30);
+      padding: 0.15rem 0.6rem;
+    }
+
+    .blog-title {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 1.625rem;
+      color: var(--aubergine);
+      font-weight: 400;
+      line-height: 1.3;
+      margin-bottom: 0.75rem;
+      letter-spacing: 0.02em;
+    }
+
+    .blog-title a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .blog-title a:hover {
+      color: oklch(0.12 0.02 300 / 0.7);
+    }
+
+    .blog-excerpt {
+      color: oklch(0.12 0.02 300 / 0.65);
+      font-size: 0.9375rem;
+      line-height: 1.75;
+      margin-bottom: 1.25rem;
+    }
+
+    .blog-read {
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
-      color: oklch(0.12 0.02 300 / 0.6);
+      color: oklch(0.12 0.02 300 / 0.5);
       font-size: 0.75rem;
-      letter-spacing: 0.1em;
+      letter-spacing: 0.15em;
       text-transform: uppercase;
-      text-decoration: underline;
-      text-underline-offset: 3px;
+      text-decoration: none;
       transition: color 0.3s;
-      font-weight: 400;
+      font-weight: 500;
     }
 
-    .library-entry-link:hover {
+    .blog-read:hover {
       color: var(--aubergine);
     }
 
-    .library-entry-link svg {
+    .blog-read svg {
       width: 12px;
       height: 12px;
-      opacity: 0.6;
+      opacity: 0.5;
+    }
+
+    .blog-pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid oklch(0.12 0.02 300 / 0.1);
+    }
+
+    .blog-pagination a,
+    .blog-pagination span {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.25rem;
+      height: 2.25rem;
+      font-size: 0.8125rem;
+      color: oklch(0.12 0.02 300 / 0.5);
+      text-decoration: none;
+      border: 1px solid oklch(0.12 0.02 300 / 0.1);
+      transition: all 0.3s;
+    }
+
+    .blog-pagination a:hover {
+      border-color: var(--gold-50);
+      color: var(--aubergine);
+    }
+
+    .blog-pagination span.current {
+      background: var(--aubergine);
+      color: var(--ivory);
+      border-color: var(--aubergine);
     }
 
     /* ─── FOOTER ──────────────────────────────────────────── */
@@ -489,7 +498,7 @@
       .footer-grid { grid-template-columns: 1fr; gap: 2rem; }
       .footer-bottom { flex-direction: column; align-items: flex-start; }
       .page-hero { min-height: 35vh; }
-      .library-entry-title { font-size: 1.125rem; }
+      .blog-title { font-size: 1.375rem; }
     }
 
     /* ─── MODAL ───────────────────────────────────────────── */
@@ -664,7 +673,7 @@
 <!-- ─── HEADER ──────────────────────────────────────────────── -->
 <header>
   <nav>
-    <a href="index.html" class="logo">
+    <a href="/" class="logo">
       <div class="logo-icon">
         <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1" style="color: var(--gold)">
           <path d="M12 2L2 7l10 5 10-5-10-5z"/>
@@ -679,11 +688,11 @@
     </a>
 
     <ul class="nav-links">
-      <li><a href="sobre.html">Sobre</a></li>
-      <li><a href="cursos.html">Cursos</a></li>
-      <li><a href="biblioteca.html" class="active">Biblioteca</a></li>
-      <li><a href="blog.html">Blog</a></li>
-      <li><a href="contactos.html">Contacto</a></li>
+      <li><a href="/sobre">Sobre</a></li>
+      <li><a href="/cursos">Cursos</a></li>
+      <li><a href="/biblioteca">Biblioteca</a></li>
+      <li><a href="/blog" class="active">Blog</a></li>
+      <li><a href="/contactos">Contacto</a></li>
     </ul>
 
     <button onclick="openModal()" class="btn-enroll" id="enroll-btn">SUBSCREVER</button>
@@ -702,11 +711,11 @@
   </nav>
 
   <div class="mobile-menu" id="mobile-menu" style="padding: 1rem 1.5rem 1.5rem;">
-    <a href="sobre.html"          onclick="closeMobile()">Sobre</a>
-    <a href="cursos.html"         onclick="closeMobile()">Cursos</a>
-    <a href="biblioteca.html"     onclick="closeMobile()">Biblioteca</a>
-    <a href="blog.html"  onclick="closeMobile()">Blog</a>
-    <a href="contactos.html"  onclick="closeMobile()">Contacto</a>
+    <a href="/sobre"          onclick="closeMobile()">Sobre</a>
+    <a href="/cursos"         onclick="closeMobile()">Cursos</a>
+    <a href="/biblioteca"     onclick="closeMobile()">Biblioteca</a>
+    <a href="/blog"           onclick="closeMobile()">Blog</a>
+    <a href="/contactos"      onclick="closeMobile()">Contacto</a>
     <button onclick="closeMobile(); openModal();" class="btn-enroll">SUBSCREVER</button>
   </div>
 </header>
@@ -715,190 +724,100 @@
 <!-- ─── PAGE HERO ───────────────────────────────────────────── -->
 <section class="page-hero">
   <div class="page-hero-content">
-    <h1 class="page-hero-title">Biblioteca</h1>
+    <h1 class="page-hero-title">Blog</h1>
     <div class="page-hero-divider">
       <div class="line"></div>
       <span style="color: var(--gold); font-size: 0.5rem; line-height: 1;">&#9679;</span>
       <div class="line"></div>
     </div>
     <p class="page-hero-desc">
-      Uma seleção orientada de fontes essenciais para o estudo do tarot a partir de uma base documentada.<br>
+      Artigos, notas e observações sobre história, estrutura e leitura do tarot.
     </p>
   </div>
 </section>
 
 
-<!-- ─── LIBRARY ─────────────────────────────────────────────── -->
-<section class="library">
-  <div class="library-inner">
-    <!-- NÚCLEO ESSENCIAL -->
-    <div class="library-section">
-      <h2 class="library-section-title">Núcleo Essencial</h2>
-      <p class="library-section-subtitle">Ponto de partida recomendado. Estes livros estabelecem a base.</p>
+<!-- ─── BLOG LIST ───────────────────────────────────────────── -->
+<section class="blog">
+  <div class="blog-inner">
+    <div class="blog-list">
 
-      <div class="library-entry">
-        <p class="library-entry-author">Michael Dummett</p>
-        <h3 class="library-entry-title">The Game of Tarot</h3>
-        <p class="library-entry-desc">O estudo mais sólido sobre o tarot enquanto jogo. Define a estrutura histórica e desmonta interpretações incorretas.</p>
-      </div>
+      <article class="blog-entry">
+        <div class="blog-meta">
+          <span class="blog-date">15 Abril 2026</span>
+          <span class="blog-tag">História</span>
+        </div>
+        <h2 class="blog-title"><a href="/blog/o-tarot-comecou-como-jogo">O Tarot Começou como Jogo</a></h2>
+        <p class="blog-excerpt">
+          Antes de significados, antes de mistério, antes de esoterismo — havia um jogo de cartas. O tarot surgiu no norte de Itália por volta de 1440 como um passatempo de corte. Os trunfos, as figuras, a sequência: tudo isso fazia parte de uma mecânica lúdica, não de um sistema oculto. Compreender esta origem é o primeiro passo para ler o tarot com rigor.
+        </p>
+        <a href="/blog/o-tarot-comecou-como-jogo" class="blog-read">
+          Ler mais
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </article>
 
-      <div class="library-entry">
-        <p class="library-entry-author">Ronald Decker, Thierry Depaulis, Michael Dummett</p>
-        <h3 class="library-entry-title">A History of the Occult Tarot</h3>
-        <p class="library-entry-desc">Análise da transformação do tarot em sistema esotérico. Explica quando e como surgem os significados modernos.</p>
-      </div>
+      <article class="blog-entry">
+        <div class="blog-meta">
+          <span class="blog-date">28 Março 2026</span>
+          <span class="blog-tag">Estrutura</span>
+        </div>
+        <h2 class="blog-title"><a href="/blog/a-hierarquia-dos-trunfos">A Hierarquia dos Trunfos</a></h2>
+        <p class="blog-excerpt">
+          A sequência dos Arcanos Maiores não é aleatória. Cada trunfo ocupa um lugar específico numa cadeia que sobe do Pagão ao Mundo, passando pelo Papa e pelo Amor. Esta hierarquia reflete uma visão do mundo medieval, não uma jornada espiritual universal. Perceber a diferença é essencial.
+        </p>
+        <a href="/blog/a-hierarquia-dos-trunfos" class="blog-read">
+          Ler mais
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </article>
 
-      <div class="library-entry">
-        <p class="library-entry-author">Michael Dummett</p>
-        <h3 class="library-entry-title">Il Mondo e l'Angelo</h3>
-        <p class="library-entry-desc">Estudo aprofundado sobre os trunfos e a sua estrutura. Fundamental para compreender a sequência dos Arcanos Maiores.</p>
-      </div>
+      <article class="blog-entry">
+        <div class="blog-meta">
+          <span class="blog-date">10 Março 2026</span>
+          <span class="blog-tag">Leitura</span>
+        </div>
+        <h2 class="blog-title"><a href="/blog/por-que-as-listas-de-significados-falham">Por que as Listas de Significados Falham</a></h2>
+        <p class="blog-excerpt">
+          Memorizar que o Mago significa "início" e a Morte significa "transformação" é confortável, mas limitado. Sem compreender a estrutura do baralho, o contexto histórico e a lógica dos naipes, esses significados são apenas palavras soltas. A leitura precisa de base, não de receitas.
+        </p>
+        <a href="/blog/por-que-as-listas-de-significados-falham" class="blog-read">
+          Ler mais
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </article>
+
+      <article class="blog-entry">
+        <div class="blog-meta">
+          <span class="blog-date">22 Fevereiro 2026</span>
+          <span class="blog-tag">História</span>
+        </div>
+        <h2 class="blog-title"><a href="/blog/court-de-gebelin-e-a-invencao-da-antiguidade">Court de Gébelin e a Invenção da Antiguidade</a></h2>
+        <p class="blog-excerpt">
+          Em 1781, Antoine Court de Gébelin afirmou que o tarot era um livro de sabedoria egípcia. Não havia provas. Não havia documentos. Apenas uma convicção. Essa convicção, no entanto, mudou para sempre a forma como o tarot é lido. Este artigo examina a ruptura que transformou um jogo num oráculo.
+        </p>
+        <a href="/blog/court-de-gebelin-e-a-invencao-da-antiguidade" class="blog-read">
+          Ler mais
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </article>
+
+      <article class="blog-entry">
+        <div class="blog-meta">
+          <span class="blog-date">5 Fevereiro 2026</span>
+          <span class="blog-tag">Sistemas</span>
+        </div>
+        <h2 class="blog-title"><a href="/blog/rider-waite-smith-um-sistema-nao-a-origem">Rider-Waite-Smith: Um Sistema, Não a Origem</a></h2>
+        <p class="blog-excerpt">
+          O baralho mais popular do mundo tem pouco mais de um século. Criado em 1909 por Pamela Colman Smith sob a direção de Arthur Edward Waite, introduziu cenários narrativos nos Arcanos Menores que antes eram apenas padrões geométricos. É um sistema poderoso, mas é um sistema moderno — não a verdade original do tarot.
+        </p>
+        <a href="/blog/rider-waite-smith-um-sistema-nao-a-origem" class="blog-read">
+          Ler mais
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </article>
+
     </div>
-
-    <!-- HISTÓRIA DO TAROT -->
-    <div class="library-section">
-      <h2 class="library-section-title">História do Tarot</h2>
-      <p class="library-section-subtitle">Fontes baseadas em investigação documental.</p>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Thierry Depaulis</p>
-        <h3 class="library-entry-title">Tarot, jeu et magie</h3>
-        <p class="library-entry-desc">Síntese clara da evolução do tarot, desde o jogo até às interpretações posteriores.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Thierry Depaulis</p>
-        <h3 class="library-entry-title">Le Tarot révélé</h3>
-        <p class="library-entry-desc">Estudo detalhado sobre a formação e difusão do tarot na Europa.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Franco Pratesi</p>
-        <h3 class="library-entry-title">Studies on Early Tarot</h3>
-        <p class="library-entry-desc">Investigação contínua sobre os primeiros registos do tarot. Foco em dados históricos e documentação.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Gertrude Moakley</p>
-        <h3 class="library-entry-title">The Tarot Cards Painted by Bonifacio Bembo</h3>
-        <p class="library-entry-desc">Interpretação histórica dos primeiros baralhos italianos. Contextualiza iconografia e sequência.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Giordano Berti</p>
-        <h3 class="library-entry-title">A History of Tarot</h3>
-        <p class="library-entry-desc">Introdução acessível à história do tarot com base em fontes históricas.</p>
-      </div>
-    </div>
-
-    <!-- ORIGEM DAS CARTAS -->
-    <div class="library-section">
-      <h2 class="library-section-title">Origem das Cartas</h2>
-      <p class="library-section-subtitle">Contexto mais amplo das cartas de jogar.</p>
-
-      <div class="library-entry">
-        <p class="library-entry-author">David Parlett</p>
-        <h3 class="library-entry-title">The Oxford Guide to Card Games</h3>
-        <p class="library-entry-desc">Explica a evolução dos jogos de cartas e a estrutura que antecede o tarot.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Sylvia Mann</p>
-        <h3 class="library-entry-title">Collecting Playing Cards</h3>
-        <p class="library-entry-desc">Visão geral sobre a história das cartas de jogar na Europa.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Detlef Hoffmann</p>
-        <h3 class="library-entry-title">The Playing Card: An Illustrated History</h3>
-        <p class="library-entry-desc">Análise visual e histórica das cartas antes do tarot.</p>
-      </div>
-    </div>
-
-    <!-- RUPTURA ESOTÉRICA -->
-    <div class="library-section">
-      <h2 class="library-section-title">Ruptura Esotérica</h2>
-      <p class="library-section-subtitle">Momento em que o tarot deixa de ser apenas jogo.</p>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Antoine Court de Gébelin</p>
-        <h3 class="library-entry-title">Le Monde Primitif</h3>
-        <p class="library-entry-desc">Primeira tentativa de associar o tarot a uma origem simbólica antiga. Marca a mudança de interpretação.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Etteilla</p>
-        <h3 class="library-entry-title">Manière de se récréer avec le jeu de cartes nommées tarots</h3>
-        <p class="library-entry-desc">Primeiro sistema organizado de leitura do tarot. Introduz significados estruturados.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Etteilla</p>
-        <h3 class="library-entry-title">Philosophie des hautes sciences</h3>
-        <p class="library-entry-desc">Expansão do sistema divinatório e da lógica interpretativa.</p>
-      </div>
-    </div>
-
-    <!-- OCULTISMO MODERNO -->
-    <div class="library-section">
-      <h2 class="library-section-title">Ocultismo Moderno</h2>
-      <p class="library-section-subtitle">Construção dos sistemas simbólicos atuais.</p>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Eliphas Lévi</p>
-        <h3 class="library-entry-title">Dogme et Rituel de la Haute Magie</h3>
-        <p class="library-entry-desc">Integra o tarot em sistemas esotéricos mais amplos, incluindo cabala. Influência central nos desenvolvimentos posteriores.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Papus</p>
-        <h3 class="library-entry-title">Le Tarot des Bohémiens</h3>
-        <p class="library-entry-desc">Sistema interpretativo baseado em correspondências esotéricas.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Oswald Wirth</p>
-        <h3 class="library-entry-title">Le Tarot des imagiers du Moyen Âge</h3>
-        <p class="library-entry-desc">Reinterpretação simbólica do tarot com base em tradição esotérica.</p>
-      </div>
-    </div>
-
-    <!-- SISTEMAS CONTEMPORÂNEOS -->
-    <div class="library-section">
-      <h2 class="library-section-title">Sistemas Contemporâneos</h2>
-      <p class="library-section-subtitle">Base do tarot utilizado atualmente.</p>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Arthur Edward Waite</p>
-        <h3 class="library-entry-title">The Pictorial Key to the Tarot</h3>
-        <p class="library-entry-desc">Explica o sistema Rider Waite Smith e os significados associados.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Israel Regardie</p>
-        <h3 class="library-entry-title">The Golden Dawn</h3>
-        <p class="library-entry-desc">Documenta o sistema completo da Golden Dawn, incluindo correspondências e estrutura simbólica.</p>
-      </div>
-    </div>
-
-    <!-- LEITURA CRÍTICA -->
-    <div class="library-section">
-      <h2 class="library-section-title">Leitura Crítica</h2>
-      <p class="library-section-subtitle">Obras populares que exigem interpretação cuidadosa.</p>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Paul Huson</p>
-        <h3 class="library-entry-title">Mystical Origins of the Tarot</h3>
-        <p class="library-entry-desc">Abordagem criativa e simbólica. Útil, mas não baseada em evidência histórica.</p>
-      </div>
-
-      <div class="library-entry">
-        <p class="library-entry-author">Rachel Pollack</p>
-        <h3 class="library-entry-title">Seventy-Eight Degrees of Wisdom</h3>
-        <p class="library-entry-desc">Interpretação moderna e influente. Deve ser lida como sistema contemporâneo, não como origem.</p>
-      </div>
-    </div>
-
   </div>
 </section>
 
@@ -930,9 +849,8 @@
       <div>
         <h4 class="footer-col-title">Academia</h4>
         <ul class="footer-links">
-          <li><a href="sobre.html">Sobre a Delfos</a></li>
-          <li><a href="cursos.html">Cursos</a></li>
-          <li><a href="contactos.html">Contacto</a></li>
+          <li><a href="/sobre">Sobre a Delfos</a></li>
+          <li><a href="/cursos">Cursos</a></li>
         </ul>
       </div>
 
@@ -940,8 +858,8 @@
       <div>
         <h4 class="footer-col-title">Material</h4>
         <ul class="footer-links">
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="biblioteca.html">Biblioteca</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/biblioteca">Biblioteca</a></li>
         </ul>
       </div>
 
@@ -949,8 +867,8 @@
       <div>
         <h4 class="footer-col-title">Informações</h4>
         <ul class="footer-links">
-          <li><a href="termos-uso.html">Termos de Serviço</a></li>
-          <li><a href="politica-privacidade.html">Política de Privacidade</a></li>
+          <li><a href="/termos-uso">Termos de Serviço</a></li>
+          <li><a href="/politica-privacidade">Política de Privacidade</a></li>
         </ul>
       </div>
 
@@ -958,7 +876,10 @@
 
     <div class="footer-bottom">
       <p class="footer-copy">&copy; <span id="year"></span> Delfos Academia de Tarot. Todos os direitos reservados.</p>
-
+      <div class="footer-legal">
+        <a href="/politica-privacidade">Política de Privacidade</a>
+        <a href="/termos-uso">Termos de Serviço</a>
+      </div>
     </div>
   </div>
 </footer>
