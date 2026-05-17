@@ -3,67 +3,85 @@
 
   <url>
     <loc>https://delfos-tarot.pt/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/sobre</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/cursos</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/biblioteca</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/blog</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/contacto</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
 
   <url>
+    <loc>https://delfos-tarot.pt/blog/como-aprender-tarot-a-serio</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://delfos-tarot.pt/blog/o-tarot-comecou-como-jogo</loc>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/blog/a-hierarquia-dos-trunfos</loc>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/blog/por-que-as-listas-de-significados-falham</loc>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/blog/court-de-gebelin-e-a-invencao-da-antiguidade</loc>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://delfos-tarot.pt/blog/rider-waite-smith-um-sistema-nao-a-origem</loc>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
