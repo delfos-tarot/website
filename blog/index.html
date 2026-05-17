@@ -270,6 +270,41 @@
       margin: 0 auto;
     }
 
+    .blog-filter {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 3rem;
+      justify-content: center;
+    }
+
+    .filter-chip {
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 0.6875rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gold);
+      background: transparent;
+      border: 1px solid var(--gold-30);
+      padding: 0.4rem 1rem;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s, border-color 0.2s;
+    }
+
+    .filter-chip:hover {
+      border-color: var(--gold);
+    }
+
+    .filter-chip.active {
+      background: var(--gold);
+      color: var(--ivory);
+      border-color: var(--gold);
+    }
+
+    .blog-entry[hidden] {
+      display: none;
+    }
+
     .blog-list {
       display: flex;
       flex-direction: column;
@@ -774,9 +809,18 @@
 <!-- ─── BLOG LIST ───────────────────────────────────────────── -->
 <section class="blog">
   <div class="blog-inner">
+    <div class="blog-filter" role="tablist" aria-label="Filtrar por etiqueta">
+      <button type="button" class="filter-chip active" data-filter="*">Todos</button>
+      <button type="button" class="filter-chip" data-filter="Historia">História</button>
+      <button type="button" class="filter-chip" data-filter="Estrutura">Estrutura</button>
+      <button type="button" class="filter-chip" data-filter="Sistemas">Sistemas</button>
+      <button type="button" class="filter-chip" data-filter="Metodologia">Metodologia</button>
+      <button type="button" class="filter-chip" data-filter="Ocultismo">Ocultismo</button>
+    </div>
+
     <div class="blog-list">
 
-      <article class="blog-entry">
+      <article class="blog-entry" data-tags="Metodologia">
         <div class="blog-meta">
           <span class="blog-date">17 Maio 2026</span>
           <span class="blog-tag">Metodologia</span>
@@ -791,7 +835,7 @@
         </a>
       </article>
 
-      <article class="blog-entry">
+      <article class="blog-entry" data-tags="Historia Estrutura">
         <div class="blog-meta">
           <span class="blog-date">15 Abril 2026</span>
           <span class="blog-tag">História</span>
@@ -806,7 +850,7 @@
         </a>
       </article>
 
-      <article class="blog-entry">
+      <article class="blog-entry" data-tags="Estrutura Historia">
         <div class="blog-meta">
           <span class="blog-date">28 Março 2026</span>
           <span class="blog-tag">Estrutura</span>
@@ -821,10 +865,10 @@
         </a>
       </article>
 
-      <article class="blog-entry">
+      <article class="blog-entry" data-tags="Metodologia">
         <div class="blog-meta">
           <span class="blog-date">10 Março 2026</span>
-          <span class="blog-tag">Leitura</span>
+          <span class="blog-tag">Metodologia</span>
         </div>
         <h2 class="blog-title"><a href="/blog/por-que-as-listas-de-significados-falham">Porque as Listas de Significados Falham</a></h2>
         <p class="blog-excerpt">
@@ -836,7 +880,7 @@
         </a>
       </article>
 
-      <article class="blog-entry">
+      <article class="blog-entry" data-tags="Historia Ocultismo">
         <div class="blog-meta">
           <span class="blog-date">22 Fevereiro 2026</span>
           <span class="blog-tag">História</span>
@@ -851,7 +895,7 @@
         </a>
       </article>
 
-      <article class="blog-entry">
+      <article class="blog-entry" data-tags="Sistemas Ocultismo">
         <div class="blog-meta">
           <span class="blog-date">5 Fevereiro 2026</span>
           <span class="blog-tag">Sistemas</span>
@@ -1083,6 +1127,29 @@
       submitBtn.textContent = 'Subscrever';
     }
   });
+</script>
+
+<script>
+  (function() {
+    const chips = document.querySelectorAll('.filter-chip');
+    const entries = document.querySelectorAll('.blog-entry');
+
+    function applyFilter(tag) {
+      entries.forEach(entry => {
+        const tags = (entry.dataset.tags || '').split(/\s+/);
+        entry.hidden = tag !== '*' && !tags.includes(tag);
+      });
+      chips.forEach(c => c.classList.toggle('active', c.dataset.filter === tag));
+      const hash = tag === '*' ? ' ' : '#' + encodeURIComponent(tag);
+      history.replaceState(null, '', hash);
+    }
+
+    chips.forEach(c => c.addEventListener('click', () => applyFilter(c.dataset.filter)));
+
+    const initial = decodeURIComponent(location.hash.slice(1)) || '*';
+    const valid = Array.from(chips).some(c => c.dataset.filter === initial);
+    if (initial !== '*' && valid) applyFilter(initial);
+  })();
 </script>
 
 </body>
